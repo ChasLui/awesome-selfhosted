@@ -11,10 +11,10 @@ See [Contributing](.github/CONTRIBUTING.md).
 --------------------
 
 
-## Table of contents
+## 目录
 
 
-- [Software](#software)
+- [软件](#软件)
   - [Analytics](#analytics)
   - [Archiving and Digital Preservation (DP)](#archiving-and-digital-preservation-dp)
   - [Automation](#automation)
@@ -24,29 +24,29 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Calendar & Contacts](#calendar--contacts)
   - [Calendar & Contacts - CalDAV or CardDAV Servers](#calendar--contacts---caldav-or-carddav-servers)
   - [Calendar & Contacts - CalDAV or CardDAV Web-based Clients](#calendar--contacts---caldav-or-carddav-web-based-clients)
-  - [Communication](#communication)
-  - [Communication - Custom Communication Systems](#communication---custom-communication-systems)
-  - [Communication - Email](#communication---email)
-  - [Communication - Email - Complete Solutions](#communication---email---complete-solutions)
-  - [Communication - Email - Mail Delivery Agents](#communication---email---mail-delivery-agents)
-  - [Communication - Email - Mail Transfer Agents](#communication---email---mail-transfer-agents)
-  - [Communication - Email - Mailing Lists and Newsletters](#communication---email---mailing-lists-and-newsletters)
-  - [Communication - Email - Webmail Clients](#communication---email---webmail-clients)
-  - [Communication - IRC](#communication---irc)
-  - [Communication - SIP](#communication---sip)
-  - [Communication - Social Networks and Forums](#communication---social-networks-and-forums)
-  - [Communication - XMPP](#communication---xmpp)
-  - [Communication - XMPP - Servers](#communication---xmpp---servers)
-  - [Communication - XMPP - Web Clients](#communication---xmpp---web-clients)
+  - [通讯](#通讯)
+  - [通讯 - 定制通讯系统](#通讯---定制通讯系统)
+  - [通讯 - Email](#通讯---email)
+  - [通讯 - Email - 完整的解决方案](#通讯---email---完整的解决方案)
+  - [通讯 - Email - 邮件发送代理](#通讯---email---邮件发送代理)
+  - [通讯 - Email - 邮件传输代理](#通讯---email---邮件传输代理)
+  - [通讯 - Email - 邮件列表和新闻简报](#通讯---email---邮件列表和新闻简报)
+  - [通讯 - Email - web 邮件客户端](#通讯---email---web-邮件客户端)
+  - [通讯 - IRC](#通讯---irc)
+  - [通讯 - SIP](#通讯---sip)
+  - [通讯 - 社会网络和论坛](#通讯---社会网络和论坛)
+  - [通讯 - XMPP](#通讯---xmpp)
+  - [通讯 - XMPP - 服务](#通讯---xmpp---服务)
+  - [通讯 - XMPP - Web 客户端](#通讯---xmpp---客户端)
   - [Community-Supported Agriculture (CSA)](#community-supported-agriculture-csa)
   - [Conference Management](#conference-management)
   - [Content Management Systems (CMS)](#content-management-systems-cms)
   - [DNS](#dns)
-  - [Document Management](#document-management)
-  - [Document Management - E-books](#document-management---e-books)
-  - [Document Management - Institutional Repository and Digital Library Software](#document-management---institutional-repository-and-digital-library-software)
-  - [Document Management - Integrated Library Systems (ILS)](#document-management---integrated-library-systems-ils)
-  - [E-commerce](#e-commerce)
+  - [文档管理](#文档管理)
+  - [文档管理 - E-books](#文档管理---e-books)
+  - [文档管理 - 机构存储库和数字图书馆软件](#文档管理---机构存储库和数字图书馆软件)
+  - [文档管理 - 集成图书馆系统 (ILS)](#文档管理---集成图书馆系统-ils)
+  - [电商](#电商)
   - [Federated Identity & Authentication](#federated-identity--authentication)
   - [Feed Readers](#feed-readers)
   - [File Transfer & Synchronization](#file-transfer--synchronization)
@@ -81,27 +81,27 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Proxy](#proxy)
   - [Read-it-later Lists](#read-it-later-lists)
   - [Recipe Management](#recipe-management)
-  - [Resource Planning](#resource-planning)
-  - [Resource Planning - Enterprise Resource Planning](#resource-planning---enterprise-resource-planning)
-  - [Search Engines](#search-engines)
-  - [Self-hosting Solutions](#self-hosting-solutions)
+  - [资源规划](#资源规划)
+  - [资源规划 - 企业资源规划](#资源规划---企业资源规划)
+  - [搜索引擎](#搜索引擎)
+  - [自我托管解决方案](#自我托管解决方案)
   - [软件开发](#软件开发)
-  - [软件开发 - API 管理](#software-development---api-management)
+  - [软件开发 - API 管理](#软件开发---api-management)
   - [软件开发 - Bug 追踪](#软件开发---bug-追踪)
-  - [Software Development - Continuous Integration & Deployment](#software-development---continuous-integration--deployment)
-  - [Software Development - Documentation Generators](#software-development---documentation-generators)
-  - [Software Development - FaaS & Serverless](#software-development---faas--serverless)
-  - [Software Development - IDE & Tools](#software-development---ide--tools)
-  - [Software Development - Localization](#software-development---localization)
+  - [软件开发 - 持续集成和部署](#软件开发---continuous-integration--deployment)
+  - [软件开发 - 文档生成](#软件开发---documentation-generators)
+  - [软件开发 - FaaS & Serverless](#软件开发---faas--serverless)
+  - [软件开发 - IDE & Tools](#软件开发---ide--tools)
+  - [软件开发 - 本地化](#软件开发---本地化)
   - [软件开发 - 项目管理](#软件开发---项目管理)
-  - [Software Development - UX Testing](#software-development---ux-testing)
-  - [Static Site Generators](#static-site-generators)
-  - [任务管理 & To-do Lists](#任务管理--to-do-lists)
+  - [软件开发 - UX 测试](#软件开发---ux-测试)
+  - [静态站点生成](#静态站点生成)
+  - [任务管理和待办清单](#任务管理和待办清单)
   - [追踪](#追踪)
-  - [URL Shorteners](#url-shorteners)
+  - [URL 短链](#url-短链)
   - [VPN](#vpn)
   - [Web Servers](#web-servers)
-  - [Wikis](#wikis)
+  - [知识库](#知识库)
 - [List of Licenses](#list-of-licenses)
 - [External Links](#external-links)
 - [Contributing](#contributing)
@@ -1501,7 +1501,7 @@ _关联: [Booking and Scheduling](#booking-and-scheduling)_
 - [Traefik](https://traefik.io/) - Træfɪk is a modern HTTP reverse proxy and load balancer made to deploy microservices with ease. It supports several backends (Docker, Swarm, Mesos/Marathon, …) to manage its configuration automatically and dynamically. ([源码](https://github.com/traefik/traefik)) `MIT` `Go`
 
 
-### Read-it-later Lists
+### 稍后读清单
 
 **[`^        返回顶部        ^`](#)**
 
@@ -1509,76 +1509,76 @@ _关联: [Booking and Scheduling](#booking-and-scheduling)_
 - [Wallabag](https://www.wallabag.org) - Wallabag, formerly Poche, is a web application allowing you to save articles to read them later with improved readability. ([Demo](https://app.wallabag.it/register/), [源码](https://github.com/wallabag/wallabag)) `MIT` `PHP`
 
 
-### Recipe Management
+### 食谱管理
 
 **[`^        返回顶部        ^`](#)**
 
-- [kcal](https://github.com/kcal-app/kcal) - Track nutritional information about foods and recipes, set goals, and record a food journal to help along the way. Kcal is a personal system that focuses on direct control of inputs and a minimal, easy to use recipe presentation for preparing meals. ([Demo](http://demo.kcal.cooking/login)) `MPL-2.0` `PHP`
-- [Mealie](https://hay-kot.github.io/mealie/) - Material design inspired recipe manager with category and tag management, shopping-lists, meal-planner, and site customizations. Mealie is focused on simple user interactions to keep the whole family using the app. ([源码](https://github.com/hay-kot/mealie)) `MIT` `Python`
-- [OpenEats](https://github.com/open-eats/OpenEats) - Recipe management site that allows users to create, store, share and rate recipes, create grocery lists, and more. ([Demo](https://open-eats.github.io/)) `MIT` `Python`
-- [RecipeSage](https://github.com/julianpoy/recipesage) - A recipe keeper, meal plan organizer, and shopping list manager that can import recipes directly from any URL. ([Demo](https://recipesage.com)) `AGPL-3.0` `Nodejs`
-- [Tandoor Recipes](https://docs.tandoor.dev/) - Django application to manage, tag and search recipes using either built-in models or external storage providers hosting PDFs, Images or other files. ([Demo](https://app.tandoor.dev/), [源码](https://github.com/vabene1111/recipes/)) `MIT` `Python`
+- [kcal](https://github.com/kcal-app/kcal) - 追踪食物和食谱的营养信息，设定目标，并记录食物日记，以帮助一路上的发展。Kcal是一个个人系统，重点是直接控制投入，并以最小的、易于使用的食谱展示来准备膳食。 ([Demo](http://demo.kcal.cooking/login)) `MPL-2.0` `PHP`
+- [Mealie](https://hay-kot.github.io/mealie/) - Material 料设系统计为灵感的菜谱管理器，具有分类和标签管理、购物清单、膳食计划和网站定制功能。Mealie专注于简单的用户互动，使整个家庭都能使用这个应用程序。 ([源码](https://github.com/hay-kot/mealie)) `MIT` `Python`
+- [OpenEats](https://github.com/open-eats/OpenEats) - 菜谱管理网站，允许用户创建、存储、分享和评价菜谱，创建杂货清单等。 ([Demo](https://open-eats.github.io/)) `MIT` `Python`
+- [RecipeSage](https://github.com/julianpoy/recipesage) - 一个可以直接从任何URL导入食谱的食谱保存者、膳食计划组织者和购物清单管理者。 ([Demo](https://recipesage.com)) `AGPL-3.0` `Nodejs`
+- [Tandoor Recipes](https://docs.tandoor.dev/) - Django 应用程序使用内置模型或托管PDF、图片或其他文件的外部存储供应商来管理、标记和搜索食谱。 ([Demo](https://app.tandoor.dev/), [源码](https://github.com/vabene1111/recipes/)) `MIT` `Python`
 
 
-### Resource Planning
-
-**[`^        返回顶部        ^`](#)**
-
-- [farmOS](https://farmos.org/) - Web-based farm record keeping application. ([源码](https://github.com/farmOS/farmOS)) `GPL-2.0` `PHP`
-- [grocy](https://grocy.info/) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home. ([Demo](https://en.demo.grocy.info/), [源码](https://github.com/grocy/grocy)) `MIT` `PHP`
-- [Tania](https://github.com/Tanibox/tania-core) - Tania is a free and open source farming management system for everyone. You can manage your areas, reservoirs, farm tasks, inventories, and the crop growing progress. `Apache-2.0` `Go`
-
-
-### Resource Planning - Enterprise Resource Planning
+### 资源规划
 
 **[`^        返回顶部        ^`](#)**
 
-- [Dolibarr](https://www.dolibarr.org/) - Dolibarr ERP CRM is a modern software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). ([Demo](https://www.dolibarr.org/onlinedemo.php), [源码](https://github.com/Dolibarr/dolibarr)) `GPL-3.0-or-later` `PHP`
-- [ERPNext](https://erpnext.com) - Free open source ERP system. ([源码](https://github.com/frappe/erpnext)) `GPL-3.0` `Python`
-- [LedgerSMB](https://ledgersmb.org/) - Integrated accounting and ERP system for small and midsize businesses, with double entry accounting, budgeting, invoicing, quotations, projects, orders and inventory management, shipping and more. ([Demo](https://demo.cloud.efficito.com/erp/1.5/login.pl), [源码](https://github.com/ledgersmb/LedgerSMB)) `GPL-2.0` `Perl`
-- [Odoo](https://www.odoo.com) - Free open source ERP system. ([Demo](https://demo.odoo.com/), [源码](https://github.com/odoo/odoo)) `LGPL-3.0` `Python`
-- [OFBiz](https://ofbiz.apache.org/) - FOSS enterprise resource planning system with a suite of business applications flexible enough to be used across any industry. ([源码](https://svn.apache.org/viewvc/ofbiz/)) `Apache-2.0` `Java`
-- [Tryton](https://www.tryton.org/) - Free open source business solution. ([Demo](https://www.tryton.org/download.html), [源码](https://hg.tryton.org/)) `GPL-3.0` `Python`
+- [farmOS](https://farmos.org/) - 基于 web 的农场记录保存应用程序。 ([源码](https://github.com/farmOS/farmOS)) `GPL-2.0` `PHP`
+- [grocy](https://grocy.info/) - 超越你的冰箱的 ERP - grocy 是一个基于 web 的自我托管的杂货和家庭管理解决方案，为你的家。 ([Demo](https://en.demo.grocy.info/), [源码](https://github.com/grocy/grocy)) `MIT` `PHP`
+- [Tania](https://github.com/Tanibox/tania-core) - Tania 是一个免费和开源的耕作管理系统，适合所有人。你可以管理你的地区、水库、农场任务、库存和作物生长进度。 `Apache-2.0` `Go`
+
+
+### 资源规划 - 企业资源规划
+
+**[`^        返回顶部        ^`](#)**
+
+- [Dolibarr](https://www.dolibarr.org/) - Dolibarr ERP CRM 是一个现代化的软件包，用于管理你的公司或基金会的活动（联系人、供应商、发票、订单、库存、议程、会计...）。 ([Demo](https://www.dolibarr.org/onlinedemo.php), [源码](https://github.com/Dolibarr/dolibarr)) `GPL-3.0-or-later` `PHP`
+- [ERPNext](https://erpnext.com) - 免费的开放源码ERP系统。 ([源码](https://github.com/frappe/erpnext)) `GPL-3.0` `Python`
+- [LedgerSMB](https://ledgersmb.org/) - 适用于中小型企业的综合会计和 ERP 系统，具有复式记账、预算编制、发票、报价、项目、订单和库存管理、运输等功能。 ([Demo](https://demo.cloud.efficito.com/erp/1.5/login.pl), [源码](https://github.com/ledgersmb/LedgerSMB)) `GPL-2.0` `Perl`
+- [Odoo](https://www.odoo.com) - 免费的开放源码ERP系统。 ([Demo](https://demo.odoo.com/), [源码](https://github.com/odoo/odoo)) `LGPL-3.0` `Python`
+- [OFBiz](https://ofbiz.apache.org/) - FOSS 企业资源规划系统，有一套灵活的商业应用，可以在任何行业使用。 ([源码](https://svn.apache.org/viewvc/ofbiz/)) `Apache-2.0` `Java`
+- [Tryton](https://www.tryton.org/) - 免费的开放源码商业解决方案。 ([Demo](https://www.tryton.org/download.html), [源码](https://hg.tryton.org/)) `GPL-3.0` `Python`
 
 
 ### 搜索引擎
 
 **[`^        返回顶部        ^`](#)**
 
-- [Ambar](https://ambar.cloud) - Document Search Engine (OCR, Store & Search). ([Demo](https://app.ambar.cloud/), [源码](https://github.com/RD17/ambar)) `MIT` `Nodejs/Python`
-- [Gigablast](https://www.gigablast.com/) - open source search engine. ([源码](https://github.com/gigablast/open-source-search-engine)) `Apache-2.0` `C++`
-- [Jina](https://github.com/jina-ai/jina/) - Cloud-native neural search framework for any kind of data. `Apache-2.0` `Python`
-- [MeiliSearch](https://meilisearch.com) - Ultra relevant, instant and typo-tolerant full-text search API. ([源码](https://github.com/meilisearch/MeiliSearch)) `MIT` `Rust`
-- [Searx](https://searx.github.io/searx/) - Privacy-respecting, hackable metasearch engine. ([Demo](https://searx.me/), [源码](https://github.com/searx/searx)) `AGPL-3.0` `Python`
-- [sist2](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool. ([Demo](https://sist2.simon987.net/)) `GPL-3.0` `C`
-- [Typesense](https://typesense.org) - Blazing fast, typo-tolerant open source search engine optimized for developer happiness and ease of use. ([源码](https://github.com/typesense/typesense)) `GPL-3.0` `C++`
-- [Whoogle](https://github.com/benbusby/whoogle-search) `⚠` - A self-hosted, ad-free, privacy-respecting metasearch engine. `MIT` `Python`
-- [Yacy](https://yacy.net/en/index.html) - Peer based, decentralized search engine server. ([Demo](https://search.yacy.net/), [源码](https://github.com/yacy/yacy_search_server)) `GPL-2.0` `Java`
+- [Ambar](https://ambar.cloud) - 文件搜索引擎（OCR，存储和搜索）。 ([Demo](https://app.ambar.cloud/), [源码](https://github.com/RD17/ambar)) `MIT` `Nodejs/Python`
+- [Gigablast](https://www.gigablast.com/) - 开源搜索引擎。 ([源码](https://github.com/gigablast/open-source-search-engine)) `Apache-2.0` `C++`
+- [Jina](https://github.com/jina-ai/jina/) - 用于任何类型数据的云原生神经搜索框架。 `Apache-2.0` `Python`
+- [MeiliSearch](https://meilisearch.com) - 超相关的、即时的和容忍错别字的全文搜索API。 ([源码](https://github.com/meilisearch/MeiliSearch)) `MIT` `Rust`
+- [Searx](https://searx.github.io/searx/) - 尊重隐私、可黑客的元搜索引擎。 ([Demo](https://searx.me/), [源码](https://github.com/searx/searx)) `AGPL-3.0` `Python`
+- [sist2](https://github.com/simon987/sist2) - 快如闪电的文件系统索引器和搜索工具。 ([Demo](https://sist2.simon987.net/)) `GPL-3.0` `C`
+- [Typesense](https://typesense.org) - 速度极快、可容忍错别字的开源搜索引擎，为开发者的快乐和易用性进行了优化。 ([源码](https://github.com/typesense/typesense)) `GPL-3.0` `C++`
+- [Whoogle](https://github.com/benbusby/whoogle-search) `⚠` - 一个自我托管、无广告、尊重隐私的元搜索引擎。 `MIT` `Python`
+- [Yacy](https://yacy.net/en/index.html) - 基于P2P的、去中心化的搜索引擎服务器。 ([Demo](https://search.yacy.net/), [源码](https://github.com/yacy/yacy_search_server)) `GPL-2.0` `Java`
 
 
-### Self-hosting Solutions
+### 自我托管解决方案
 
 **[`^        返回顶部        ^`](#)**
 
-- [Ansible-NAS](https://github.com/DaveStephens/ansible-nas) - Build a full-featured home server with this playbook and an Ubuntu box. `MIT` `YAML/Docker`
-- [Bitsii Bridge](https://gitlab.com/bitsii/Bitsii/-/wikis/home) `⚠` - Easy to install self-hosting platform for Windows, MacOS, and Linux. Depends on a dynamic DNS provider and Let's Encrypt. ([源码](https://gitlab.com/edgii/BBridge)) `MPL-2.0` `Java/Other`
-- [Cloudbox](https://cloudbox.works) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server. ([源码](https://github.com/Cloudbox/Cloudbox)) `GPL-3.0` `Shell/Ansible`
-- [DietPi](https://dietpi.com/) - Minimal Debian OS optimized for single-board computers, which allows you to easily install and manage several services for selfhosting at home. ([源码](https://github.com/MichaIng/DietPi)) `GPL-2.0` `Shell`
-- [DockSTARTer](https://dockstarter.com/) - DockSTARTer helps you get started with home server apps running in Docker. ([源码](https://github.com/GhostWriters/DockSTARTer)) `MIT` `Shell`
-- [DPlatform](https://dfabric.github.io/DPlatform-Shell/) - Deploy self-hosted apps easily: simple, bloat-free, independent installation. ([源码](https://github.com/DFabric/DPlatform-Shell)) `MIT` `Shell`
-- [FLAP](https://www.flap.cloud) - Low maintenance framework to manage self-hosted services. ([源码](https://gitlab.com/flap-box/flap)) `AGPL-3.0` `Docker/Shell`
-- [FreedomBone](https://freedombone.net/) - Home server configuration based on Debian. ([源码](https://code.freedombone.net/bashrc/freedombone)) `AGPL-3.0` `Shell`
-- [FreedomBox](https://freedomboxfoundation.org/) - Community project to develop, design and promote personal servers running free software for private, personal, communications. ([源码](https://salsa.debian.org/freedombox-team/freedombox)) `AGPL-3.0` `Python/Other`
-- [HomelabOS](https://homelabos.com) - Your very own offline-first privacy-centric open-source data-center. Deploy over 100 services with a few commands. ([源码](https://gitlab.com/NickBusey/HomelabOS)) `MIT` `Docker`
-- [NextCloudPi](https://nextcloudpi.com/) - Nextcloud preinstalled and preconfigured, with a text and web management interface and all the tools needed to self host private data. With installation images for Raspberry Pi, Odroid, Rock64, Docker, and a curl installer for Armbian/Debian. ([源码](https://github.com/nextcloud/nextcloudpi)) `GPL-2.0-or-later` `Bash/PHP`
-- [OpenMediaVault](https://www.openmediavault.org/) - OpenMediaVault is the next generation network attached storage (NAS) solution based on Debian Linux. It contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. ([源码](https://github.com/openmediavault/openmediavault)) `GPL-3.0` `PHP`
-- [Sandstorm](https://sandstorm.io/) - Personal server for running self-hosted apps easily and securely. ([Demo](https://demo.sandstorm.io/), [源码](https://github.com/sandstorm-io/sandstorm)) `Apache-2.0` `C++/Other`
-- [sovereign](https://github.com/sovereign/sovereign) - Set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more. `GPL-3.0` `YAML/Other`
-- [Syncloud](https://syncloud.org/) - Your own online file storage, social network or email server. ([源码](https://github.com/syncloud/platform)) `GPL-3.0` `Python/Other`
-- [UBOS](https://ubos.net/) - Linux distro that runs on indie boxes (personal servers and IoT devices). Single-command installation and management of apps - Jenkins, Mediawiki, Owncloud, WordPress, etc., and other features. `GPL-3.0` `Perl/Other`
-- [WikiSuite](https://wikisuite.org) - The most comprehensive and integrated Free / Libre / Open Source enterprise software suite. ([源码](https://wikisuite.org/Source-Code)) `GPL-3.0/LGPL-2.1/Apache-2.0/MPL-2.0/MPL-1.1/MIT/AGPL-3.0` `ClearOS`
-- [xsrv](https://xsrv.readthedocs.io/) - Install and manage self-hosted services/applications, on your own server(s). ([源码](https://github.com/nodiscc/xsrv)) `GPL-3.0` `Shell/Ansible`
-- [YunoHost](https://yunohost.org/) - Server operating system aiming to make self-hosting accessible to everyone. ([Demo](https://yunohost.org/#/try), [源码](https://github.com/YunoHost)) `AGPL-3.0` `Python/Other`
+- [Ansible-NAS](https://github.com/DaveStephens/ansible-nas) - 用这个游戏手册和 Ubuntu 盒子构建一个全功能的家庭服务器。 `MIT` `YAML/Docker`
+- [Bitsii Bridge](https://gitlab.com/bitsii/Bitsii/-/wikis/home) `⚠` - 易于安装的自我托管平台，适用于 Windows、MacOS 和 Linux。取决于一个动态 DNS 提供商和 Let's Encrypt。 ([源码](https://gitlab.com/edgii/BBridge)) `MPL-2.0` `Java/Other`
+- [Cloudbox](https://cloudbox.works) - 基于 Ansible 的解决方案，快速部署 Docker 容器化的云媒体服务器。 ([源码](https://github.com/Cloudbox/Cloudbox)) `GPL-3.0` `Shell/Ansible`
+- [DietPi](https://dietpi.com/) - 为单板计算机优化的最小的 Debian 操作系统，它允许你轻松地安装和管理几个服务，在家里自我托管。 ([源码](https://github.com/MichaIng/DietPi)) `GPL-2.0` `Shell`
+- [DockSTARTer](https://dockstarter.com/) - DockSTARTer 帮助你开始使用在 Docker 中运行的家庭服务器应用程序。 ([源码](https://github.com/GhostWriters/DockSTARTer)) `MIT` `Shell`
+- [DPlatform](https://dfabric.github.io/DPlatform-Shell/) - 轻松部署自我托管的应用程序：简单、无臃肿、独立安装。 ([源码](https://github.com/DFabric/DPlatform-Shell)) `MIT` `Shell`
+- [FLAP](https://www.flap.cloud) - 低维护框架来管理自我托管的服务。 ([源码](https://gitlab.com/flap-box/flap)) `AGPL-3.0` `Docker/Shell`
+- [FreedomBone](https://freedombone.net/) - 基于 Debian 的家庭服务器配置。 ([源码](https://code.freedombone.net/bashrc/freedombone)) `AGPL-3.0` `Shell`
+- [FreedomBox](https://freedomboxfoundation.org/) - 开发、设计和推广运行自由软件的个人服务器的社区项目，用于私人、个人、通信。 ([源码](https://salsa.debian.org/freedombox-team/freedombox)) `AGPL-3.0` `Python/Other`
+- [HomelabOS](https://homelabos.com) - 你自己的离线第一以隐私为中心的开源数据中心。只需几个命令就可以部署 100 多个服务。 ([源码](https://gitlab.com/NickBusey/HomelabOS)) `MIT` `Docker`
+- [NextCloudPi](https://nextcloudpi.com/) - Nextcloud 预安装和预配置，具有文本和 web 管理界面，以及自我托管私人数据所需的所有工具。有用于 Raspberry Pi、Odroid、Rock64、Docker 的安装镜像，以及用于 Armbian/Debian 的 curl 安装程序。 ([源码](https://github.com/nextcloud/nextcloudpi)) `GPL-2.0-or-later` `Bash/PHP`
+- [OpenMediaVault](https://www.openmediavault.org/) - OpenMediaVault 是基于 Debian Linux 的下一代网络连接存储（NAS）解决方案。它包含像SSH、（S）FTP、SMB/CIFS、DAAP媒体服务器、RSync、BitTorrent客户端等服务。 ([源码](https://github.com/openmediavault/openmediavault)) `GPL-3.0` `PHP`
+- [Sandstorm](https://sandstorm.io/) - 个人服务器用于轻松和安全地运行自我托管的应用程序。 ([Demo](https://demo.sandstorm.io/), [源码](https://github.com/sandstorm-io/sandstorm)) `Apache-2.0` `C++/Other`
+- [sovereign](https://github.com/sovereign/sovereign) - 一套Ansible操作手册，用于构建和维护你自己的私有云：电子邮件、日历、联系人、文件同步、IRC保镖、VPN等等。 `GPL-3.0` `YAML/Other`
+- [Syncloud](https://syncloud.org/) - 你自己的在线文件存储、社交网络或电子邮件服务器。 ([源码](https://github.com/syncloud/platform)) `GPL-3.0` `Python/Other`
+- [UBOS](https://ubos.net/) - 在独立盒子（个人服务器和物联网设备）上运行的Linux发行版。单命令安装和管理应用程序 - Jenkins、Mediawiki、Owncloud、WordPress等，以及其他功能。 `GPL-3.0` `Perl/Other`
+- [WikiSuite](https://wikisuite.org) - 最全面和集成的自由/自由/开源企业软件套件。 ([源码](https://wikisuite.org/Source-Code)) `GPL-3.0/LGPL-2.1/Apache-2.0/MPL-2.0/MPL-1.1/MIT/AGPL-3.0` `ClearOS`
+- [xsrv](https://xsrv.readthedocs.io/) - 在你自己的服务器上安装和管理自我托管的服务/应用程序。 ([源码](https://github.com/nodiscc/xsrv)) `GPL-3.0` `Shell/Ansible`
+- [YunoHost](https://yunohost.org/) - 服务器操作系统，旨在使每个人都能使用自我托管。 ([Demo](https://yunohost.org/#/try), [源码](https://github.com/YunoHost)) `AGPL-3.0` `Python/Other`
 
 
 ### 软件开发
@@ -1647,103 +1647,103 @@ _关联: [静态站点生成](#静态站点生成)_
 
 **[`^        返回顶部        ^`](#)**
 
-- [Appsmith](https://www.appsmith.com/) - Cloud or self-hosted open-source platform to build admin panels, CRUD apps and workflows. Build everything you need, 10x faster. ([源码](https://github.com/appsmithorg/appsmith)) `Apache-2.0` `Java/Docker`
-- [Atheos](https://www.atheos.io) - Web-based IDE framework with a small footprint and minimal requirements, continued from Codiad. ([源码](https://github.com/Atheos/Atheos)) `MIT` `PHP`
-- [Babelfish](https://github.com/bblfsh/bblfshd) - Self-hosted server for source code parsing. It can parse any file, in any supported language, extract an Abstract Syntax Tree from it, and convert it to a Universal Abstract Syntax Tree which can enable further analysis and transformation. `GPL-3.0` `Go`
-- [Budibase](https://www.budibase.com) - Build and automate internal tools, admin panels, dashboards, CRUD apps, and more, in minutes. Budibase is the open source alternative to Outsystems, Retool, Mendix, Appian. ([源码](https://github.com/Budibase/budibase)) `GPL-3.0` `Nodejs`
-- [Code-Server](https://coder.com/) - Visual Studio Code in the browser, hosted on a remote server. ([源码](https://github.com/cdr/code-server)) `MIT` `Nodejs/Docker`
-- [Eclipse Che](https://www.eclipse.org/che/) - Open source workspace server and cloud IDE. ([源码](https://github.com/eclipse/che)) `EPL-1.0` `Docker/Java`
-- [Gitpod](https://gitpod.io/) - Online IDE for GitHub and GitLab. ([Demo](https://gitpod.io/#https://github.com/awesome-selfhosted/awesome-selfhosted), [源码](https://github.com/gitpod-io/self-hosted)) `EPL-2.0` `Go/Docker`
-- [Hakatime](https://github.com/mujx/hakatime) - WakaTime server implementation with analytics dashboard. `Unlicense` `Haskell`
-- [HttPlaceholder](https://github.com/dukeofharen/httplaceholder) - Quickly mock away any webservice using HttPlaceholder. HttPlaceholder lets you specify what the request should look like and what response needs to be returned. `MIT` `C#`
-- [ICEcoder](https://icecoder.net/) - ICEcoder is a web IDE / browser based code editor, which allows you to develop websites directly within the web browser. ([Demo](http://demo.icecoder.net/ICEcoder/), [源码](https://github.com/icecoder/ICEcoder)) `MIT` `PHP`
-- [JS Bin](https://jsbin.com/) - Open source collaborative web development debugging tool. ([源码](https://github.com/jsbin/jsbin)) `MIT` `Nodejs`
-- [Judge0 CE](https://judge0.com) - Open source API to compile and run source code. ([源码](https://github.com/judge0/judge0)) `GPL-3.0` `Ruby`
-- [JupyterLab](https://jupyterlab.github.io/jupyterlab/) - Web-based environment for interactive and reproducible computing. ([Demo](https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/try.jupyter.org?urlpath=lab), [源码](https://github.com/jupyterlab/jupyterlab/)) `BSD-3-Clause` `Python/Docker`
-- [Lowdefy](https://www.lowdefy.com/) - Build internal tools, BI dashboards, admin panels, CRUD apps and workflows in minutes using YAML / JSON on an self-hosted, open-source platform. Connect to your data sources, host via Serverless, Netlify or Docker. ([源码](https://github.com/lowdefy/lowdefy)) `Apache-2.0` `Nodejs`
-- [ML Workspace](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE for machine learning and data science. `Apache-2.0` `Docker`
-- [Motor Admin](https://www.getmotoradmin.com/) - No-code admin panel and business intelligence software - search, create, update, and delete data entries, create custom actions, and build reports. ([Demo](https://motor-admin.herokuapp.com/demo/), [源码](https://github.com/motor-admin/motor-admin)) `AGPL-3.0` `Ruby`
-- [Regexr](https://regexr.com/) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions. ([源码](https://github.com/gskinner/regexr)) `MIT` `Nodejs`
-- [RStudio Server](https://www.rstudio.com/products/rstudio/#Server) - Web browser based IDE for R. ([源码](https://github.com/rstudio/rstudio)) `AGPL-3.0` `Java/C++`
-- [Slingcode](https://slingcode.net/) - Web app IDE and computing platform in a single static HTML file. ([Demo](https://slingcode.net/slingcode.html), [源码](https://github.com/chr15m/slingcode/)) `MIT` `HTML`
-- [sourcegraph](https://sourcegraph.com) - Sourcegraph is a fast, open-source, fully-featured code search and navigation engine written in Go. ([源码](https://github.com/sourcegraph/sourcegraph)) `Apache-2.0` `Go`
-- [ToolJet](https://tooljet.io/) - ToolJet is the open-source low-code framework alternative to Retool & Mendix to build & deploy internal tools with minimal engineering effort. ([源码](https://github.com/ToolJet/ToolJet)) `GPL-3.0` `Nodejs`
-- [Wakapi](https://wakapi.dev/) - Tracking tool for coding statistics, compatible with WakaTime. ([源码](https://github.com/muety/wakapi)) `GPL-3.0` `Go`
+- [Appsmith](https://www.appsmith.com/) - 构建管理面板、CRUD应用程序和工作流的云端或自我托管的开源平台。构建你需要的一切，速度快10倍。 ([源码](https://github.com/appsmithorg/appsmith)) `Apache-2.0` `Java/Docker`
+- [Atheos](https://www.atheos.io) - 基于web的集成开发环境框架，占地面积小，要求低，延续自Codiad。 ([源码](https://github.com/Atheos/Atheos)) `MIT` `PHP`
+- [Babelfish](https://github.com/bblfsh/bblfshd) - 用于源代码解析的自我托管服务器。它可以解析任何文件，在任何支持的语言中，从中提取抽象语法树，并将其转换为通用抽象语法树，从而实现进一步的分析和转换。 `GPL-3.0` `Go`
+- [Budibase](https://www.budibase.com) - 在几分钟内建立和自动化内部工具、管理面板、仪表盘、CRUD应用程序等。Budibase是Outsystems, Retool, Mendix, Appian的开源替代品。 ([源码](https://github.com/Budibase/budibase)) `GPL-3.0` `Nodejs`
+- [Code-Server](https://coder.com/) - 浏览器中的Visual Studio代码，托管在一个远程服务器上。 ([源码](https://github.com/cdr/code-server)) `MIT` `Nodejs/Docker`
+- [Eclipse Che](https://www.eclipse.org/che/) - 开源的工作区服务器和云IDE。 ([源码](https://github.com/eclipse/che)) `EPL-1.0` `Docker/Java`
+- [Gitpod](https://gitpod.io/) - GitHub和GitLab的在线IDE。 ([Demo](https://gitpod.io/#https://github.com/awesome-selfhosted/awesome-selfhosted), [源码](https://github.com/gitpod-io/self-hosted)) `EPL-2.0` `Go/Docker`
+- [Hakatime](https://github.com/mujx/hakatime) - WakaTime服务器的实施与分析仪表板。 `Unlicense` `Haskell`
+- [HttPlaceholder](https://github.com/dukeofharen/httplaceholder) - 使用HttPlaceholder可以快速地模拟任何网络服务。HttPlaceholder让你指定请求应该是什么样子，需要返回什么响应。 `MIT` `C#`
+- [ICEcoder](https://icecoder.net/) - ICEcoder是一个web IDE/基于浏览器的代码编辑器，它允许你直接在web浏览器中开发网站。 ([Demo](http://demo.icecoder.net/ICEcoder/), [源码](https://github.com/icecoder/ICEcoder)) `MIT` `PHP`
+- [JS Bin](https://jsbin.com/) - 开源的协作式web开发调试工具。 ([源码](https://github.com/jsbin/jsbin)) `MIT` `Nodejs`
+- [Judge0 CE](https://judge0.com) - 编译和运行源代码的开放源码API。 ([源码](https://github.com/judge0/judge0)) `GPL-3.0` `Ruby`
+- [JupyterLab](https://jupyterlab.github.io/jupyterlab/) - 基于web的交互式和可重复的计算环境。 ([Demo](https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/try.jupyter.org?urlpath=lab), [源码](https://github.com/jupyterlab/jupyterlab/)) `BSD-3-Clause` `Python/Docker`
+- [Lowdefy](https://www.lowdefy.com/) - 使用YAML/JSON在一个自我托管的开源平台上，在几分钟内建立内部工具、BI仪表盘、管理面板、CRUD应用程序和工作流程。连接到你的数据源，通过Serverless、Netlify或Docker托管。 ([源码](https://github.com/lowdefy/lowdefy)) `Apache-2.0` `Nodejs`
+- [ML Workspace](https://github.com/ml-tooling/ml-workspace) - 用于机器学习和数据科学的多合一网络集成开发环境。 `Apache-2.0` `Docker`
+- [Motor Admin](https://www.getmotoradmin.com/) - 无代码管理面板和商业智能软件--搜索、创建、更新和删除数据条目，创建自定义动作，并建立报告。 ([Demo](https://motor-admin.herokuapp.com/demo/), [源码](https://github.com/motor-admin/motor-admin)) `AGPL-3.0` `Ruby`
+- [Regexr](https://regexr.com/) - RegExr是一个基于HTML/JS的工具，用于创建、测试和学习正则表达式。 ([源码](https://github.com/gskinner/regexr)) `MIT` `Nodejs`
+- [RStudio Server](https://www.rstudio.com/products/rstudio/#Server) - 基于web浏览器的R的IDE。 ([源码](https://github.com/rstudio/rstudio)) `AGPL-3.0` `Java/C++`
+- [Slingcode](https://slingcode.net/) - 在一个静态HTML文件中的Web应用IDE和计算平台。 ([Demo](https://slingcode.net/slingcode.html), [源码](https://github.com/chr15m/slingcode/)) `MIT` `HTML`
+- [sourcegraph](https://sourcegraph.com) - Sourcegraph是一个用Go语言编写的快速、开源、功能齐全的代码搜索和导航引擎。 ([源码](https://github.com/sourcegraph/sourcegraph)) `Apache-2.0` `Go`
+- [ToolJet](https://tooljet.io/) - ToolJet是Retool和Mendix的开源低代码框架替代品，以最小的工程努力来构建和部署内部工具。 ([源码](https://github.com/ToolJet/ToolJet)) `GPL-3.0` `Nodejs`
+- [Wakapi](https://wakapi.dev/) - 编码统计的跟踪工具，与WakaTime兼容。 ([源码](https://github.com/muety/wakapi)) `GPL-3.0` `Go`
 
 
-### Software Development - Localization
+### 软件开发 - 本地化
 
 **[`^        返回顶部        ^`](#)**
 
-- [Accent](https://www.accent.reviews/) - Open-source, self-hosted, developer-oriented translation tool. ([源码](https://github.com/mirego/accent)) `BSD-3-Clause` `Elixir`
-- [Localizer](https://localizer.dev) - Free self-hosted open-source crowd-translating service for your product. ([Demo](https://localize.todorant.com), [源码](https://github.com/backmeupplz/localizer-backend)) `MIT` `Nodejs/Docker`
-- [Pootle](https://pootle.translatehouse.org) - Online translation and localization tool. ([源码](https://github.com/translate/pootle)) `GPL-3.0` `Python`
-- [Traduora](https://traduora.com) - Translation management platform for teams. ([源码](https://github.com/ever-co/ever-traduora)) `AGPL-3.0` `Docker/Nodejs`
-- [Weblate](https://weblate.org) - Web-based translation tool with tight version control integration. ([Demo](https://demo.weblate.org), [源码](https://github.com/WeblateOrg/weblate)) `GPL-3.0` `Python`
-- [Zanata](http://zanata.org) - Web-based translation platform for translators, content creators and developers to manage localisation projects. ([源码](https://github.com/zanata/zanata-platform)) `GPL-2.0` `Java`
+- [Accent](https://www.accent.reviews/) - 开源的、自我托管的、面向开发者的翻译工具。 ([源码](https://github.com/mirego/accent)) `BSD-3-Clause` `Elixir`
+- [Localizer](https://localizer.dev) - 为你的产品提供免费的自我托管的开源人群翻译服务。 ([Demo](https://localize.todorant.com), [源码](https://github.com/backmeupplz/localizer-backend)) `MIT` `Nodejs/Docker`
+- [Pootle](https://pootle.translatehouse.org) - 在线翻译和本地化工具。 ([源码](https://github.com/translate/pootle)) `GPL-3.0` `Python`
+- [Traduora](https://traduora.com) - 为团队提供的翻译管理平台。 ([源码](https://github.com/ever-co/ever-traduora)) `AGPL-3.0` `Docker/Nodejs`
+- [Weblate](https://weblate.org) - 基于web的翻译工具，具有严格的版本控制集成。 ([Demo](https://demo.weblate.org), [源码](https://github.com/WeblateOrg/weblate)) `GPL-3.0` `Python`
+- [Zanata](http://zanata.org) - 基于web的翻译平台，供译员、内容创作者和开发人员管理本地化项目。 ([源码](https://github.com/zanata/zanata-platform)) `GPL-2.0` `Java`
 
 
 ### 软件开发 - 项目管理
 
 **[`^        返回顶部        ^`](#)**
 
-_关联: [Ticketing](#追踪), [任务管理 & To-do lists](#任务管理--to-do-lists)_
+_关联: [追踪](#追踪), [任务管理 & 待办清单](#任务管理和待办清单)_
 
-_See also: [awesome-sysadmin/Code Review](https://github.com/awesome-foss/awesome-sysadmin#code-review)_
+_另见: [awesome-sysadmin/Code Review](https://github.com/awesome-foss/awesome-sysadmin#code-review)_
 
-- [Bonobo Git Server](https://bonobogitserver.com/) - Set up your own self hosted git server on IIS for Windows. Manage users and have full control over your repositories with a nice user friendly graphical interface. ([源码](https://github.com/jakubgarfield/Bonobo-Git-Server)) `MIT` `C#`
-- [Fossil](https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki) - Distributed version control system featuring wiki and bug tracker. `BSD-2-Clause-FreeBSD` `C`
-- [Git WebUI](https://github.com/alberthier/git-webui) - Standalone web based user interface for git repositories. `Apache-2.0` `Python`
-- [Gitblit](https://gitblit.github.io/gitblit/) - Pure Java stack for managing, viewing, and serving Git repositories. ([源码](https://github.com/gitblit/gitblit)) `Apache-2.0` `Java`
-- [gitbucket](https://gitbucket.github.io/gitbucket-news/) - Easily installable GitHub clone powered by Scala. ([源码](https://github.com/gitbucket/gitbucket)) `Apache-2.0` `Scala/Java`
-- [Gitea](https://gitea.io) - Community managed fork of Gogs, lightweight code hosting solution. ([Demo](https://try.gitea.io), [源码](https://github.com/go-gitea/gitea)) `MIT` `Go`
-- [GitLab](https://about.gitlab.com) - Self Hosted Git repository management, code reviews, issue tracking, activity feeds and wikis. ([Demo](https://gitlab.com/), [源码](https://gitlab.com/gitlab-org/gitlab-foss)) `MIT` `Ruby`
-- [Gitlist](https://gitlist.org/) - Web-based git repository browser - GitList allows you to browse repositories using your favorite browser, viewing files under different revisions, commit history and diffs. ([源码](https://github.com/klaussilveira/gitlist)) `BSD-3-Clause` `PHP`
-- [Gitolite](https://gitolite.com/gitolite/index.html) - Gitolite allows you to setup git hosting on a central server, with fine-grained access control and many more powerful features. ([源码](https://github.com/sitaramc/gitolite)) `GPL-2.0` `Perl`
-- [GitPrep](https://gitprep.yukikimoto.com/) - Portable Github clone. ([Demo](https://perlcodesample.sakura.ne.jp/gitprep/gitprep.cgi), [源码](https://github.com/yuki-kimoto/gitprep)) `Artistic-2.0` `Perl`
-- [Gogs](https://gogs.io/) - Painless self-hosted Git Service written in Go. ([Demo](https://try.gogs.io/), [源码](https://github.com/gogs/gogs)) `MIT` `Go`
-- [Goodwork](https://usegood.work/) - Self hosted project management and collaboration tool powered by Laravel & VueJS. ([Demo](https://github.com/iluminar/goodwork#demo), [源码](https://github.com/iluminar/goodwork)) `MIT` `PHP`
-- [Kallithea](https://kallithea-scm.org/) - Source code management system that supports two leading version control systems, Mercurial and Git, with a web interface. ([源码](https://kallithea-scm.org/repos/kallithea)) `GPL-3.0` `Python`
-- [Klaus](https://github.com/jonashaag/klaus) - Simple, easy-to-set-up Git web viewer that Just Works. `ISC` `Python`
-- [Lavagna](https://lavagna.io) - Lavagna is an open-source issue/project management tool designed for small teams. Lightweight, pure Java, easy to install, easy to use. ([源码](https://github.com/digitalfondue/lavagna)) `GPL-3.0` `Java`
-- [Lazylead](https://lazylead.org) `⚠` - Eliminate the annoying work within ticketing systems (Jira, GitHub, Trello). Allows to automate daily actions like tickets fields verification, email notifications by JQL/GQL, meeting requests to your (or teammates) calendar. ([源码](https://github.com/dgroup/lazylead)) `MIT` `Ruby`
-- [Leantime](https://leantime.io) - Leantime is a lean project management system for small teams and startups helping to manage projects from ideation through delivery. ([源码](https://github.com/leantime/leantime)) `GPL-2.0` `PHP`
-- [Microgit](https://github.com/microgit-com/microgit) - Git hosting service made in Crystal and Lucky. `MIT` `Crystal`
-- [Octobox](https://octobox.io/) `⚠` - Take back control of your GitHub Notifications. ([源码](https://github.com/octobox/octobox)) `AGPL-3.0` `Ruby`
-- [OneDev](https://onedev.io/) - All-In-One DevOps Platform. With Git Management, Issue Tracking, and CI/CD. Simple yet Powerful. ([源码](https://code.onedev.io/projects/160)) `MIT` `Java`
-- [OpenProject](https://www.openproject.org) - OpenProject is a web-based project management system. ([源码](https://github.com/opf/openproject)) `GPL-3.0` `Ruby`
-- [Pagure](https://pagure.io/pagure) - A lightweight, powerful, and flexible git-centric forge with features laying the foundation for federated and decentralized development. ([Demo](https://pagure.io/)) `GPL-2.0` `Python`
-- [Phproject](https://www.phproject.org/) - High performance full-featured project management system. ([Demo](https://demo.phproject.org/), [源码](https://github.com/Alanaktion/phproject)) `GPL-3.0` `PHP`
-- [ProjeQtOr](https://www.projeqtor.org/) - A complete, mature, multi-user project management system with extensive functionality for all phases of a project. ([Demo](https://demo.projeqtor.org/), [源码](https://sourceforge.net/p/projectorria/code/HEAD/tree/branches/)) `AGPL-3.0` `PHP`
-- [Re:Backlogs](https://github.com/kaishuu0123/rebacklogs) - Project management and collaboration tool powered by Ruby on Rails & VueJS. ([Demo](https://rebacklogs.saino.me/users/sign_up)) `MIT` `Ruby`
-- [Redmine](https://www.redmine.org/) - Redmine is a flexible project management web application. ([Demo](http://demo.redmine.org/), [源码](https://svn.redmine.org/redmine/)) `GPL-2.0` `Ruby`
-- [RhodeCode](https://rhodecode.com/) - RhodeCode is an open source platform for software development teams. It unifies and simplifies repository management for Git, Subversion, and Mercurial. ([源码](https://code.rhodecode.com/)) `AGPL-3.0` `Python`
-- [SCM Manager](https://www.scm-manager.org/) - The easiest way to share and manage your Git, Mercurial and Subversion repositories over http. ([源码](https://github.com/scm-manager/scm-manager)) `BSD-3-Clause` `Java`
-- [Taiga](https://taiga.io/) - Agile Project Management Tool based on the Kanban and Scrum methods. ([源码](https://github.com/taigaio)) `AGPL-3.0` `Python`
-- [Titra](https://titra.io/en/free-time-tracking-online/) - Time-tracking solution for freelancers and small teams. ([Demo](https://app.titra.io/try), [源码](https://github.com/kromitgmbh/titra)) `GPL-3.0` `Javascript`
-- [Trac](https://trac.edgewall.org/) - Trac is an enhanced wiki and issue tracking system for software development projects. `BSD-3-Clause` `Python`
-- [Tuleap](https://www.tuleap.org/) - Tuleap is a libre suite to plan, track, code and collaborate on software projects. ([源码](https://tuleap.net/plugins/git/tuleap/tuleap/stable?p=tuleap%2Fstable.git&a=tree)) `GPL-2.0` `PHP`
-- [UVDesk](https://www.uvdesk.com/) - UVDesk community is a service oriented, event driven extensible opensource helpdesk system that can be used by your organization to provide efficient support to your clients effortlessly whichever way you imagine. ([Demo](https://demo.uvdesk.com/), [源码](https://github.com/uvdesk/community-skeleton)) `MIT` `PHP`
-- [ZenTao](https://www.zentao.pm/) - An agile(scrum) project management system/tool. ([Demo](https://demo.zentao.pm/user-login.html), [源码](https://github.com/easysoft/zentaopms)) `ZPL-1.2` `PHP`
+- [Bonobo Git Server](https://bonobogitserver.com/) - 在 Windows 的 IIS 上建立你自己的 git 托管服务器。通过一个漂亮的用户友好的图形界面来管理用户并完全控制你的存储库。 ([源码](https://github.com/jakubgarfield/Bonobo-Git-Server)) `MIT` `C#`
+- [Fossil](https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki) - 分布式版本控制系统，具有维基和错误跟踪器。 `BSD-2-Clause-FreeBSD` `C`
+- [Git WebUI](https://github.com/alberthier/git-webui) - 独立的基于 web 的用户接口，用于git仓库。 `Apache-2.0` `Python`
+- [Gitblit](https://gitblit.github.io/gitblit/) - 用于管理、查看和服务 Git 存储库的纯 Java 堆栈。 ([源码](https://github.com/gitblit/gitblit)) `Apache-2.0` `Java`
+- [gitbucket](https://gitbucket.github.io/gitbucket-news/) - 由 Scala 驱动的可轻松安装的 GitHub 克隆。 ([源码](https://github.com/gitbucket/gitbucket)) `Apache-2.0` `Scala/Java`
+- [Gitea](https://gitea.io) - 社区管理的 Gogs 分叉，轻量级代码托管解决方案。 ([Demo](https://try.gitea.io), [源码](https://github.com/go-gitea/gitea)) `MIT` `Go`
+- [GitLab](https://about.gitlab.com) - 自我托管的 Git 存储库管理、代码审查、问题跟踪、活动反馈和维基。 ([Demo](https://gitlab.com/), [源码](https://gitlab.com/gitlab-org/gitlab-foss)) `MIT` `Ruby`
+- [Gitlist](https://gitlist.org/) - 基于web的 git 仓库浏览器 - GitList 允许你使用你喜欢的浏览器浏览仓库，查看不同修订版下的文件，提交历史和差异。 ([源码](https://github.com/klaussilveira/gitlist)) `BSD-3-Clause` `PHP`
+- [Gitolite](https://gitolite.com/gitolite/index.html) - Gitolite 允许你在一个中央服务器上设置 git 托管，具有细粒度的访问控制和许多更强大的功能。 ([源码](https://github.com/sitaramc/gitolite)) `GPL-2.0` `Perl`
+- [GitPrep](https://gitprep.yukikimoto.com/) - 便携式 Github 克隆。 ([Demo](https://perlcodesample.sakura.ne.jp/gitprep/gitprep.cgi), [源码](https://github.com/yuki-kimoto/gitprep)) `Artistic-2.0` `Perl`
+- [Gogs](https://gogs.io/) - 用 Go 编写的无痛的自我托管的 Git 服务。 ([Demo](https://try.gogs.io/), [源码](https://github.com/gogs/gogs)) `MIT` `Go`
+- [Goodwork](https://usegood.work/) - 由 Laravel 和 VueJS 驱动的自我托管的项目管理和协作工具。 ([Demo](https://github.com/iluminar/goodwork#demo), [源码](https://github.com/iluminar/goodwork)) `MIT` `PHP`
+- [Kallithea](https://kallithea-scm.org/) - 源代码管理系统，支持两个领先的版本控制系统，Mercurial 和 Git，有一个 web 界面。 ([源码](https://kallithea-scm.org/repos/kallithea)) `GPL-3.0` `Python`
+- [Klaus](https://github.com/jonashaag/klaus) - 简单、易于设置的 Git 网络浏览器，只需工作。 `ISC` `Python`
+- [Lavagna](https://lavagna.io) - Lavagna 是一个开源的问题/项目管理工具，专为小型团队设计。轻量级，纯 Java，易于安装，易于使用。 ([源码](https://github.com/digitalfondue/lavagna)) `GPL-3.0` `Java`
+- [Lazylead](https://lazylead.org) `⚠` - 消除 ticketing 系统（Jira、GitHub、Trello）中的烦人工作。允许自动化日常行动，如票据字段验证、JQL/GQL 的电子邮件通知、向您（或队友）的日历提出会议请求。 ([源码](https://github.com/dgroup/lazylead)) `MIT` `Ruby`
+- [Leantime](https://leantime.io) - Leantime 是一个针对小型团队和初创企业的精益项目管理系统，帮助管理从构思到交付的项目。 ([源码](https://github.com/leantime/leantime)) `GPL-2.0` `PHP`
+- [Microgit](https://github.com/microgit-com/microgit) - 用 Crystal 和 Lucky 制作的 Git 托管服务。 `MIT` `Crystal`
+- [Octobox](https://octobox.io/) `⚠` - 夺回对 GitHub 通知的控制权。 ([源码](https://github.com/octobox/octobox)) `AGPL-3.0` `Ruby`
+- [OneDev](https://onedev.io/) - 一体化的 DevOps 平台。拥有 Git 管理、问题跟踪和 CI/CD。简单而强大。 ([源码](https://code.onedev.io/projects/160)) `MIT` `Java`
+- [OpenProject](https://www.openproject.org) - OpenProject 是一个基于 web 的项目管理系统。 ([源码](https://github.com/opf/openproject)) `GPL-3.0` `Ruby`
+- [Pagure](https://pagure.io/pagure) - 一个轻量级的、强大的、灵活的、以 git 为中心的 forge，其功能为联合和分散开发奠定了基础。 ([Demo](https://pagure.io/)) `GPL-2.0` `Python`
+- [Phproject](https://www.phproject.org/) - 高性能的全功能项目管理系统。 ([Demo](https://demo.phproject.org/), [源码](https://github.com/Alanaktion/phproject)) `GPL-3.0` `PHP`
+- [ProjeQtOr](https://www.projeqtor.org/) - 一个完整的、成熟的、多用户的项目管理系统，对项目的所有阶段都有广泛的功能。 ([Demo](https://demo.projeqtor.org/), [源码](https://sourceforge.net/p/projectorria/code/HEAD/tree/branches/)) `AGPL-3.0` `PHP`
+- [Re:Backlogs](https://github.com/kaishuu0123/rebacklogs) - 由 Ruby on Rails 和 VueJS 驱动的项目管理和协作工具。 ([Demo](https://rebacklogs.saino.me/users/sign_up)) `MIT` `Ruby`
+- [Redmine](https://www.redmine.org/) - Redmine 是一个灵活的项目管理网络应用。 ([Demo](http://demo.redmine.org/), [源码](https://svn.redmine.org/redmine/)) `GPL-2.0` `Ruby`
+- [RhodeCode](https://rhodecode.com/) - Rhode 是一个面向软件开发团队的开源平台。它统一并简化了 Git、Subversion 和Mercurial的存储库管理。 ([源码](https://code.rhodecode.com/)) `AGPL-3.0` `Python`
+- [SCM Manager](https://www.scm-manager.org/) - 通过 http 共享和管理你的 Git、Mercurial 和 Subversion 存储库的最简单的方法。 ([源码](https://github.com/scm-manager/scm-manager)) `BSD-3-Clause` `Java`
+- [Taiga](https://taiga.io/) - 基于看板和 Scrum 方法的敏捷项目管理工具。 ([源码](https://github.com/taigaio)) `AGPL-3.0` `Python`
+- [Titra](https://titra.io/en/free-time-tracking-online/) - 为自由职业者和小团队提供时间追踪解决方案。 ([Demo](https://app.titra.io/try), [源码](https://github.com/kromitgmbh/titra)) `GPL-3.0` `Javascript`
+- [Trac](https://trac.edgewall.org/) - Trac 是一个增强的维基和问题跟踪系统，用于软件开发项目。 `BSD-3-Clause` `Python`
+- [Tuleap](https://www.tuleap.org/) - Tuleap 是一个用于计划、跟踪、编码和协作软件项目的自由套装。 ([源码](https://tuleap.net/plugins/git/tuleap/tuleap/stable?p=tuleap%2Fstable.git&a=tree)) `GPL-2.0` `PHP`
+- [UVDesk](https://www.uvdesk.com/) - UVDesk 社区是一个以服务为导向，事件驱动的可扩展开源服务台系统，可以被你的组织用来为你的客户毫不费力地提供高效的支持，无论你怎么想象。 ([Demo](https://demo.uvdesk.com/), [源码](https://github.com/uvdesk/community-skeleton)) `MIT` `PHP`
+- [ZenTao](https://www.zentao.pm/) - 敏捷（Scrum）项目管理系统/工具。 ([Demo](https://demo.zentao.pm/user-login.html), [源码](https://github.com/easysoft/zentaopms)) `ZPL-1.2` `PHP`
 
 
-### Software Development - UX Testing
+### 软件开发 - UX 测试
 
 **[`^        返回顶部        ^`](#)**
 
-- [DeepfakeHTTP](https://github.com/xnbox/DeepfakeHTTP) - A web server that uses HTTP dumps as a source for responses. `MIT` `Java`
-- [Selenoid](https://aerokube.com/selenoid/latest/) - Lightweight Selenium hub implementation launching browsers within Docker containers. ([源码](https://github.com/aerokube/selenoid)) `Apache-2.0` `Go`
-- [Uier](https://github.com/sjoerdvanderhoorn/Uier) - Codeless or low-code User Experience test editing and management using Selenium to perform testing or UI automation. Uier tends to be a free self hostable alternative to Applitools, Endtest, Ghost Inspector, Usetrace, Screenster and many others. `Apache-2.0` `Nodejs`
+- [DeepfakeHTTP](https://github.com/xnbox/DeepfakeHTTP) - 一个使用 HTTP 转储作为响应来源的 web 服务器。 `MIT` `Java`
+- [Selenoid](https://aerokube.com/selenoid/latest/) - 轻量级的 Selenium hub 实现在 Docker 容器内启动浏览器。 ([源码](https://github.com/aerokube/selenoid)) `Apache-2.0` `Go`
+- [Uier](https://github.com/sjoerdvanderhoorn/Uier) - 无代码或低代码的用户体验测试编辑和管理，使用 Selenium 进行测试或 UI 自动化。Uier 倾向于成为Applitools、Endtest、Ghost Inspector、Usetrace、Screenster 和其他许多公司的免费自我托管替代方案。 `Apache-2.0` `Nodejs`
 
 
-### Static Site Generators
+### 静态站点生成
 
 **[`^        返回顶部        ^`](#)**
 
 **请访问 [staticsitegenerators.net](https://staticsitegenerators.net), [staticgen.com](https://www.staticgen.com)**
 
 
-### 任务管理 & To-do Lists
+### 任务管理和待办清单
 
 **[`^        返回顶部        ^`](#)**
 
@@ -1766,7 +1766,7 @@ _关联: [软件开发 - 项目管理](#软件开发---项目管理), [追踪](#
 - [thewhitetulip Tasks](https://github.com/thewhitetulip/Tasks) - 基于看板的待办事项列表管理器，用 Go 语言编写。 `MIT` `Go`
 - [todo](https://git.mills.io/prologic/todo) - 简单的 Todo 列表管理器。 ([Demo](https://todo.mills.io)) `MIT` `Go`
 - [todoMini](https://www.todomini.app/) - 移动友好的零功能TODO列表网络应用。遵循 Unix 哲学。 ([Demo](https://appmini.github.io/todoMini/?demo), [源码](https://github.com/appMini/todoMini)) `GPL-3.0` `PHP/Java`
-- [Tracks](https://www.getontracks.org/) - 基于网络的应用程序，帮助你实施 David Allen 的 [Getting Things Done™](https://en.wikipedia.org/wiki/Getting_Things_Done) 方法。 ([源码](https://github.com/TracksApp/tracks)) `GPL-2.0` `Ruby`
+- [Tracks](https://www.getontracks.org/) - 基于 web 的应用程序，帮助你实施 David Allen 的 [Getting Things Done™](https://en.wikipedia.org/wiki/Getting_Things_Done) 方法。 ([源码](https://github.com/TracksApp/tracks)) `GPL-2.0` `Ruby`
 - [Vikunja](https://vikunja.io/) - 组织你的生活的待办事项应用程序。 ([Demo](https://try.vikunja.io/login), [源码](https://kolaente.dev/vikunja/)) `GPL-3.0` `Go`
 - [Wekan](https://wekan.github.io/) - 开源的类似Trello的看板。 ([源码](https://github.com/wekan/wekan)) `MIT` `Nodejs`
 
@@ -1775,7 +1775,7 @@ _关联: [软件开发 - 项目管理](#软件开发---项目管理), [追踪](#
 
 **[`^        返回顶部        ^`](#)**
 
-_关联: [任务管理 & To-do lists](#任务管理--to-do-lists), [软件开发 - 项目管理](#软件开发---项目管理)_
+_关联: [任务管理和待办清单](#任务管理和待办清单), [软件开发 - 项目管理](#软件开发---项目管理)_
 
 - [Bugzilla](https://www.bugzilla.org/) - 通用的错误跟踪器和测试工具，最初由 Mozilla 项目开发和使用。 `MPL-2.0` `Perl`
 - [Bumpy Booby](https://bumpy-booby.derivoile.fr/) - 简单、反应灵敏、高度可定制的 PHP 错误跟踪系统。 ([源码](https://github.com/piero-la-lune/Bumpy-Booby)) `MIT` `PHP`
@@ -1797,29 +1797,29 @@ _关联: [任务管理 & To-do lists](#任务管理--to-do-lists), [软件开发
 - [Zammad](https://zammad.org/) - 易于使用但功能强大的开源支持和ticketing 系统。 ([源码](https://github.com/zammad/zammad)) `AGPL-3.0` `Ruby`
 
 
-### URL Shorteners
+### URL 短链
 
 **[`^        返回顶部        ^`](#)**
 
-Before hosting one, please see [shortcomings](https://en.wikipedia.org/wiki/URL_shortening#Shortcomings) of URL shorteners.
+在托管前，请看URL缩短器的[缺点](https://en.wikipedia.org/wiki/URL_shortening#Shortcomings)。
 
-- [Blink](https://docs.blink.rest) - Easy-to-host, SSO-integrated, CDN-powered link shortener (+decoupled analytics) for teams. ([源码](https://github.com/JaneJeon/blink)) `AGPL-3.0` `Nodejs`
-- [goshorly](https://git.ucode.space/Phil/goshorly) - An easy self-hosted Link shortener in Golang with Redis <3. ([Demo](https://gly.one)) `MIT` `Go`
-- [Kutt](https://kutt.it) - A modern URL shortener with support for custom domains. ([源码](https://github.com/thedevs-network/kutt)) `MIT` `Nodejs`
-- [Link-shortener-bot](https://github.com/tommyku/link-shortener-front-end) `⚠` - URL shortener using a Telegram Bot. ([Demo](https://t.me/GiveMeShortLinkBot)) `MIT` `Ruby`
-- [Link](https://fsh.ee) - A minimal, SQLite-backed URL shortener. ([Demo](https://demo.fsh.ee), [源码](https://git.fsh.ee/i/link)) `GPL-3.0` `Go`
-- [liteshort](https://github.com/132ikl/liteshort) - User-friendly, actually lightweight, and configurable URL shortener. ([Demo](https://ls.ikl.sh)) `MIT` `Python`
-- [Lstu](https://github.com/ldidry/lstu) - _Let's SHorten That Url_ - Lightweight URL shortener. `WTFPL` `Perl`
-- [Polr](https://project.polr.me/) - Modern, minimalist, modular, and lightweight URL shortener. ([源码](https://github.com/Cydrobolt/polr)) `GPL-2.0` `PHP`
-- [reduc.io](https://github.com/ziyasal/reducio) - URL shortener service written in Scala, using Akka-Http and Redis. `MIT` `Scala`
-- [ReducePy](https://github.com/abdullahselek/ReducePy) - URL shortener service using Tornado and Redis runs on Docker and Kubernetes. `MIT` `Python`
-- [schort](https://github.com/sqozz/schort) - No login, no javascript, just short links. ([Demo](https://s.wx0.de)) `CC0-1.0` `Python`
-- [Shlink](https://shlink.io) - URL shortener with REST API and command line interface. Includes official progressive web application and docker images. ([源码](https://github.com/shlinkio/shlink), [Clients](https://shlink.io/apps)) `MIT` `PHP`
-- [shorturl](https://git.mills.io/prologic/shorturl) - Simple URL shortener with very tiny URLs. ([Demo](https://url.mills.io)) `MIT` `Go`
-- [Simple-URL-Shortener](https://github.com/azlux/Simple-URL-Shortener) - KISS URL shortener, public or private (with account). Minimalist and lightweight. No dependencies. ([Demo](https://u.azlux.fr)) `MIT` `PHP`
-- [Simply Shorten](https://gitlab.com/draganczukp/simply-shorten) - A simple URL shortener that just shortens links. `MIT` `Java`
-- [url-shortener](https://github.com/cagataycali/url-shortener) `⚠` - Shitty url shortener, emoji and AI powered. `MIT` `Nodejs`
-- [YOURLS](https://yourls.org/) - YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. Features include password protection, URL customization, bookmarklets, statistics, API, plugins, jsonp. ([源码](https://github.com/YOURLS/YOURLS)) `MIT` `PHP`
+- [Blink](https://docs.blink.rest) - 为团队提供易于托管、集成了SSO、由CDN驱动的链接缩短器（+解耦分析）。 ([源码](https://github.com/JaneJeon/blink)) `AGPL-3.0` `Nodejs`
+- [goshorly](https://git.ucode.space/Phil/goshorly) - 一个在Golang中使用Redis <3的简易自我托管的链接缩短器。 ([Demo](https://gly.one)) `MIT` `Go`
+- [Kutt](https://kutt.it) - 一个现代的URL缩短器，支持自定义域名。 ([源码](https://github.com/thedevs-network/kutt)) `MIT` `Nodejs`
+- [Link-shortener-bot](https://github.com/tommyku/link-shortener-front-end) `⚠` - 使用Telegram Bot的URL缩短器。 ([Demo](https://t.me/GiveMeShortLinkBot)) `MIT` `Ruby`
+- [Link](https://fsh.ee) - 一个最小的、由SQLite支持的URL缩短器。 ([Demo](https://demo.fsh.ee), [源码](https://git.fsh.ee/i/link)) `GPL-3.0` `Go`
+- [liteshort](https://github.com/132ikl/liteshort) - 用户友好，实际上是轻量级的，可配置的URL缩短器。 ([Demo](https://ls.ikl.sh)) `MIT` `Python`
+- [Lstu](https://github.com/ldidry/lstu) - _Let's SHorten That Url_ - 轻量级URL缩短器。 `WTFPL` `Perl`
+- [Polr](https://project.polr.me/) - 现代的、简约的、模块化的、轻量级的URL缩短器。 ([源码](https://github.com/Cydrobolt/polr)) `GPL-2.0` `PHP`
+- [reduc.io](https://github.com/ziyasal/reducio) - 用Scala编写的URL缩短器服务，使用Akka-Http和Redis。 `MIT` `Scala`
+- [ReducePy](https://github.com/abdullahselek/ReducePy) - 使用Tornado和Redis的URL缩短器服务在Docker和Kubernetes上运行。 `MIT` `Python`
+- [schort](https://github.com/sqozz/schort) - 没有登录，没有javascript，只有简短的链接。 ([Demo](https://s.wx0.de)) `CC0-1.0` `Python`
+- [Shlink](https://shlink.io) - 具有REST API和命令行界面的URL缩短器。包括官方渐进式网络应用程序和docker图像。 ([源码](https://github.com/shlinkio/shlink), [Clients](https://shlink.io/apps)) `MIT` `PHP`
+- [shorturl](https://git.mills.io/prologic/shorturl) - 简单的URL缩短器，有非常小的URL。 ([Demo](https://url.mills.io)) `MIT` `Go`
+- [Simple-URL-Shortener](https://github.com/azlux/Simple-URL-Shortener) - KISS URL缩短器，公共或私人（有账户）。极简主义和轻量级。没有依赖性。 ([Demo](https://u.azlux.fr)) `MIT` `PHP`
+- [Simply Shorten](https://gitlab.com/draganczukp/simply-shorten) - 一个简单的URL缩短器，只是缩短了链接。 `MIT` `Java`
+- [url-shortener](https://github.com/cagataycali/url-shortener) `⚠` - 糟糕的网址缩短器，表情符号和人工智能驱动。 `MIT` `Nodejs`
+- [YOURLS](https://yourls.org/) - YOURLS是一套PHP脚本，将允许你运行你自己的URL缩短器。功能包括密码保护、URL定制、小书签、统计、API、插件、jsonp。 ([源码](https://github.com/YOURLS/YOURLS)) `MIT` `PHP`
 
 
 ### VPN
