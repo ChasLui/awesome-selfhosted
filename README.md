@@ -86,7 +86,7 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [搜索引擎](#搜索引擎)
   - [自我托管解决方案](#自我托管解决方案)
   - [软件开发](#软件开发)
-  - [软件开发 - API 管理](#软件开发---api-management)
+  - [软件开发 - API 管理](#软件开发---api-管理)
   - [软件开发 - Bug 追踪](#软件开发---bug-追踪)
   - [软件开发 - 持续集成和部署](#软件开发---continuous-integration--deployment)
   - [软件开发 - 文档生成](#软件开发---documentation-generators)
@@ -685,7 +685,7 @@ _See also: [awesome-sysadmin/DNS](https://github.com/awesome-foss/awesome-sysadm
 - [SPF Toolbox](https://spftoolbox.com) - Application to look up DNS records such as SPF, MX, Whois, and more. ([源码](https://github.com/charlesabarnes/SPFtoolbox)) `MIT` `PHP`
 
 
-### Document Management
+### 文档管理
 
 **[`^        返回顶部        ^`](#)**
 
@@ -700,7 +700,7 @@ _See also: [awesome-sysadmin/DNS](https://github.com/awesome-foss/awesome-sysadm
 - [Teedy](https://teedy.io/) - (Ex SismicsDocs) Lightweight document management system packed with all the features you can expect from big expensive solutions. ([源码](https://github.com/sismics/docs)) `GPL-2.0` `Java`
 
 
-### Document Management - E-books
+### 文档管理 - E-books
 
 **[`^        返回顶部        ^`](#)**
 
@@ -716,7 +716,7 @@ _See also: [awesome-sysadmin/DNS](https://github.com/awesome-foss/awesome-sysadm
 - [The Epube](https://tt-rss.org/the-epube) - Self-hosted web EPUB reader using EPUB.js, Bootstrap, and Calibre. ([源码](https://git.tt-rss.org/fox/the-epube)) `GPL-3.0` `PHP`
 
 
-### Document Management - Institutional Repository and Digital Library Software
+### 文档管理 - Institutional Repository and Digital Library Software
 
 **[`^        返回顶部        ^`](#)**
 
