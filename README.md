@@ -14,99 +14,101 @@ See [Contributing](.github/CONTRIBUTING.md).
 ## 目录
 
 
-- [软件](#软件)
-  - [Analytics](#analytics)
-  - [Archiving and Digital Preservation (DP)](#archiving-and-digital-preservation-dp)
-  - [Automation](#automation)
-  - [Blogging Platforms](#blogging-platforms)
-  - [Booking and Scheduling](#booking-and-scheduling)
-  - [Bookmarks and Link Sharing](#bookmarks-and-link-sharing)
-  - [Calendar & Contacts](#calendar--contacts)
-  - [Calendar & Contacts - CalDAV or CardDAV Servers](#calendar--contacts---caldav-or-carddav-servers)
-  - [Calendar & Contacts - CalDAV or CardDAV Web-based Clients](#calendar--contacts---caldav-or-carddav-web-based-clients)
-  - [通讯](#通讯)
-  - [通讯 - 定制通讯系统](#通讯---定制通讯系统)
-  - [通讯 - Email](#通讯---email)
-  - [通讯 - Email - 完整的解决方案](#通讯---email---完整的解决方案)
-  - [通讯 - Email - 邮件发送代理](#通讯---email---邮件发送代理)
-  - [通讯 - Email - 邮件传输代理](#通讯---email---邮件传输代理)
-  - [通讯 - Email - 邮件列表和新闻简报](#通讯---email---邮件列表和新闻简报)
-  - [通讯 - Email - web 邮件客户端](#通讯---email---web-邮件客户端)
-  - [通讯 - IRC](#通讯---irc)
-  - [通讯 - SIP](#通讯---sip)
-  - [通讯 - 社会网络和论坛](#通讯---社会网络和论坛)
-  - [通讯 - XMPP](#通讯---xmpp)
-  - [通讯 - XMPP - 服务](#通讯---xmpp---服务)
-  - [通讯 - XMPP - Web 客户端](#通讯---xmpp---客户端)
-  - [Community-Supported Agriculture (CSA)](#community-supported-agriculture-csa)
-  - [Conference Management](#conference-management)
-  - [Content Management Systems (CMS)](#content-management-systems-cms)
-  - [DNS](#dns)
-  - [文档管理](#文档管理)
-  - [文档管理 - E-books](#文档管理---e-books)
-  - [文档管理 - 机构存储库和数字图书馆软件](#文档管理---机构存储库和数字图书馆软件)
-  - [文档管理 - 集成图书馆系统 (ILS)](#文档管理---集成图书馆系统-ils)
-  - [电商](#电商)
-  - [Federated Identity & Authentication](#federated-identity--authentication)
-  - [Feed Readers](#feed-readers)
-  - [File Transfer & Synchronization](#file-transfer--synchronization)
-  - [File Transfer - Distributed Filesystems](#file-transfer---distributed-filesystems)
-  - [File Transfer - Object Storage & File Servers](#file-transfer---object-storage--file-servers)
-  - [File Transfer - Peer-to-peer Filesharing](#file-transfer---peer-to-peer-filesharing)
-  - [File Transfer - Single-click & Drag-n-drop Upload](#file-transfer---single-click--drag-n-drop-upload)
-  - [File Transfer - Web-based File Managers](#file-transfer---web-based-file-managers)
-  - [Games](#games)
-  - [Gateways and Terminal Sharing](#gateways-and-terminal-sharing)
-  - [Genealogy](#genealogy)
-  - [Groupware](#groupware)
-  - [Human Resources Management (HRM)](#human-resources-management-hrm)
-  - [Internet of Things (IoT)](#internet-of-things-iot)
-  - [Knowledge Management Tools](#knowledge-management-tools)
-  - [Learning and Courses](#learning-and-courses)
-  - [Maps and Global Positioning System (GPS)](#maps-and-global-positioning-system-gps)
-  - [Media Streaming](#media-streaming)
-  - [Media Streaming - Audio Streaming](#media-streaming---audio-streaming)
-  - [Media Streaming - Multimedia Streaming](#media-streaming---multimedia-streaming)
-  - [Media Streaming - Video Streaming](#media-streaming---video-streaming)
-  - [Miscellaneous](#miscellaneous)
-  - [Money, Budgeting & Management](#money-budgeting--management)
-  - [Monitoring](#monitoring)
-  - [Note-taking & Editors](#note-taking--editors)
-  - [Office Suites](#office-suites)
-  - [Password Managers](#password-managers)
-  - [Pastebins](#pastebins)
-  - [Personal Dashboards](#personal-dashboards)
-  - [Photo and Video Galleries](#photo-and-video-galleries)
-  - [Polls and Events](#polls-and-events)
-  - [Proxy](#proxy)
-  - [Read-it-later Lists](#read-it-later-lists)
-  - [Recipe Management](#recipe-management)
-  - [资源规划](#资源规划)
-  - [资源规划 - 企业资源规划](#资源规划---企业资源规划)
-  - [搜索引擎](#搜索引擎)
-  - [自我托管解决方案](#自我托管解决方案)
-  - [软件开发](#软件开发)
-  - [软件开发 - API 管理](#软件开发---api-管理)
-  - [软件开发 - Bug 追踪](#软件开发---bug-追踪)
-  - [软件开发 - 持续集成和部署](#软件开发---continuous-integration--deployment)
-  - [软件开发 - 文档生成](#软件开发---documentation-generators)
-  - [软件开发 - FaaS & Serverless](#软件开发---faas--serverless)
-  - [软件开发 - IDE & Tools](#软件开发---ide--tools)
-  - [软件开发 - 本地化](#软件开发---本地化)
-  - [软件开发 - 项目管理](#软件开发---项目管理)
-  - [软件开发 - UX 测试](#软件开发---ux-测试)
-  - [静态站点生成](#静态站点生成)
-  - [任务管理和待办清单](#任务管理和待办清单)
-  - [追踪](#追踪)
-  - [URL 短链](#url-短链)
-  - [VPN](#vpn)
-  - [Web Servers](#web-servers)
-  - [知识库](#知识库)
-- [List of Licenses](#list-of-licenses)
-- [External Links](#external-links)
-- [Contributing](#contributing)
-- [Authors](#authors)
-- [License](#license)
+- [Awesome-Selfhosted](#awesome-selfhosted)
+  - [目录](#目录)
+  - [Software](#software)
+    - [Analytics](#analytics)
+    - [Archiving and Digital Preservation (DP)](#archiving-and-digital-preservation-dp)
+    - [Automation](#automation)
+    - [Blogging Platforms](#blogging-platforms)
+    - [Booking and Scheduling](#booking-and-scheduling)
+    - [Bookmarks and Link Sharing](#bookmarks-and-link-sharing)
+    - [Calendar & Contacts](#calendar--contacts)
+    - [Calendar & Contacts - CalDAV or CardDAV Servers](#calendar--contacts---caldav-or-carddav-servers)
+    - [Calendar & Contacts - CalDAV or CardDAV Web-based Clients](#calendar--contacts---caldav-or-carddav-web-based-clients)
+    - [通信](#通信)
+    - [通信 - 定制通信系统](#通信---定制通信系统)
+    - [通信 - Email](#通信---email)
+    - [通信 - 电子邮件 - 完整的解决方案](#通信---电子邮件---完整的解决方案)
+    - [通讯 - Email - 邮件发送代理](#通讯---email---邮件发送代理)
+    - [通讯 - Email - 邮件传输代理](#通讯---email---邮件传输代理)
+    - [通讯 - Email - 邮件列表和新闻简报](#通讯---email---邮件列表和新闻简报)
+    - [通讯 - Email - Web邮件客户端](#通讯---email---web邮件客户端)
+    - [通讯 - IRC](#通讯---irc)
+    - [通讯 - SIP](#通讯---sip)
+    - [通讯 - 社交网络和论坛](#通讯---社交网络和论坛)
+    - [Communication - XMPP](#communication---xmpp)
+    - [Communication - XMPP - Servers](#communication---xmpp---servers)
+    - [Communication - XMPP - Web Clients](#communication---xmpp---web-clients)
+    - [Community-Supported Agriculture (CSA)](#community-supported-agriculture-csa)
+    - [Conference Management](#conference-management)
+    - [Content Management Systems (CMS)](#content-management-systems-cms)
+    - [DNS](#dns)
+    - [文档管理](#文档管理)
+    - [文档管理 - E-books](#文档管理---e-books)
+    - [文档管理 - Institutional Repository and Digital Library Software](#文档管理---institutional-repository-and-digital-library-software)
+    - [Document Management - Integrated Library Systems (ILS)](#document-management---integrated-library-systems-ils)
+    - [E-commerce](#e-commerce)
+    - [Federated Identity & Authentication](#federated-identity--authentication)
+    - [Feed Readers](#feed-readers)
+    - [File Transfer & Synchronization](#file-transfer--synchronization)
+    - [File Transfer - Distributed Filesystems](#file-transfer---distributed-filesystems)
+    - [File Transfer - Object Storage & File Servers](#file-transfer---object-storage--file-servers)
+    - [File Transfer - Peer-to-peer Filesharing](#file-transfer---peer-to-peer-filesharing)
+    - [File Transfer - Single-click & Drag-n-drop Upload](#file-transfer---single-click--drag-n-drop-upload)
+    - [File Transfer - Web-based File Managers](#file-transfer---web-based-file-managers)
+    - [Games](#games)
+    - [Gateways and Terminal Sharing](#gateways-and-terminal-sharing)
+    - [Genealogy](#genealogy)
+    - [Groupware](#groupware)
+    - [Human Resources Management (HRM)](#human-resources-management-hrm)
+    - [Internet of Things (IoT)](#internet-of-things-iot)
+    - [Knowledge Management Tools](#knowledge-management-tools)
+    - [Learning and Courses](#learning-and-courses)
+    - [Maps and Global Positioning System (GPS)](#maps-and-global-positioning-system-gps)
+    - [Media Streaming](#media-streaming)
+    - [Media Streaming - Audio Streaming](#media-streaming---audio-streaming)
+    - [Media Streaming - Multimedia Streaming](#media-streaming---multimedia-streaming)
+    - [Media Streaming - Video Streaming](#media-streaming---video-streaming)
+    - [Miscellaneous](#miscellaneous)
+    - [Money, Budgeting & Management](#money-budgeting--management)
+    - [Monitoring](#monitoring)
+    - [Note-taking & Editors](#note-taking--editors)
+    - [Office Suites](#office-suites)
+    - [Password Managers](#password-managers)
+    - [Pastebins](#pastebins)
+    - [Personal Dashboards](#personal-dashboards)
+    - [Photo and Video Galleries](#photo-and-video-galleries)
+    - [Polls and Events](#polls-and-events)
+    - [Proxy](#proxy)
+    - [稍后读清单](#稍后读清单)
+    - [食谱管理](#食谱管理)
+    - [资源规划](#资源规划)
+    - [资源规划 - 企业资源规划](#资源规划---企业资源规划)
+    - [搜索引擎](#搜索引擎)
+    - [自我托管解决方案](#自我托管解决方案)
+    - [软件开发](#软件开发)
+    - [软件开发 - API 管理](#软件开发---api-管理)
+    - [软件开发 - Bug 追踪](#软件开发---bug-追踪)
+    - [软件开发 - 持续集成和部署](#软件开发---持续集成和部署)
+    - [软件开发 - 文档生成](#软件开发---文档生成)
+    - [软件开发 - FaaS & Serverless](#软件开发---faas--serverless)
+    - [软件开发 - IDE & Tools](#软件开发---ide--tools)
+    - [软件开发 - 本地化](#软件开发---本地化)
+    - [软件开发 - 项目管理](#软件开发---项目管理)
+    - [软件开发 - UX 测试](#软件开发---ux-测试)
+    - [静态站点生成](#静态站点生成)
+    - [任务管理和待办清单](#任务管理和待办清单)
+    - [追踪](#追踪)
+    - [URL 短链](#url-短链)
+    - [VPN](#vpn)
+    - [Web Servers](#web-servers)
+    - [Wikis](#wikis)
+  - [List of Licenses](#list-of-licenses)
+  - [External Links](#external-links)
+  - [Contributing](#contributing)
+  - [Authors](#authors)
+  - [License](#license)
 
 --------------------
 
@@ -285,12 +287,12 @@ _See also: [Comparison of CalDAV and CardDAV implementations - Wikipedia](https:
 - [EteSync Web](https://www.etesync.com/faq/#web-client) - EteSync's official Web-based client (i.e., their Web app). ([Demo](https://client.etesync.com/), [源码](https://github.com/etesync/etesync-web)) `AGPL-3.0` `Javascript`
 - [InfCloud](https://www.inf-it.com/open-source/clients/infcloud/) - Open source CalDAV/CardDAV web client implementation. ([Demo](https://www.inf-it.com/infcloud/), [源码](https://www.inf-it.com/InfCloud_0.13.1.zip)) `AGPL-3.0` `Javascript`
 
-### Communication
+### 通信
 
 **[`^        返回顶部        ^`](#)**
 
 
-### Communication - Custom Communication Systems
+### 通信 - 定制通信系统
 
 **[`^        返回顶部        ^`](#)**
 
@@ -345,216 +347,216 @@ _See also: [Comparison of CalDAV and CardDAV implementations - Wikipedia](https:
 - [Zulip](https://zulip.org) - Zulip is a powerful, open source group chat application. ([源码](https://github.com/zulip/zulip)) `Apache-2.0/Other` `Python`
 
 
-### Communication - Email
+### 通信 - Email
 
 **[`^        返回顶部        ^`](#)**
 
 
-### Communication - Email - Complete Solutions
+### 通信 - 电子邮件 - 完整的解决方案
 
 **[`^        返回顶部        ^`](#)**
 
-Simple deployment of a mail server, e.g. for inexperienced or impatient admins.
+邮件服务器的简单部署，例如为没有经验或没有耐心的管理员。
 
-- [AnonAddy](https://anonaddy.com) - Open source email forwarding service for creating aliases. ([源码](https://github.com/anonaddy/anonaddy)) `MIT` `PHP`
-- [DebOps](https://docs.debops.org/) - Your Debian-based data center in a box. A set of general-purpose Ansible roles that can be used to manage Debian or Ubuntu hosts. ([源码](https://github.com/debops/debops)) `GPL-3.0-only` `YAML/Ansible/Python`
-- [docker-mailserver](https://docker-mailserver.github.io/docker-mailserver/edge/) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. Only configuration files, no SQL database. ([源码](https://github.com/docker-mailserver/docker-mailserver)) `MIT` `Docker`
-- [emailwiz](https://github.com/LukeSmithxyz/emailwiz) - Luke Smith's bash script to completely automate the setup of a Postfix/Dovecot/SpamAssassin/OpenDKIM server on debian. `GPL-3.0` `Bash`
-- [Excision Mail](https://github.com/Excision-Mail/Excision-Mail) - Fullstack, security focused mailserver based on OpenSMTPD for OpenBSD using ansible. `ISC` `Shell/Ansible`
-- [homebox](https://github.com/progmaticltd/homebox) - Suite of Ansible scripts to deploy a fully functional mail server on Debian. Unobtrusive and automatic as much as possible, focusing on stability and security. `GPL-3.0` `Shell`
-- [Inboxen](https://inboxen.org) - Inboxen is a service that provides you with an infinite number of unique inboxes. ([源码](https://github.com/Inboxen/Inboxen)) `GPL-3.0` `Python`
-- [iRedMail](https://www.iredmail.org/) - Full-featured mail server solution based on Postfix and Dovecot. ([源码](https://github.com/iredmail/iRedMail)) `GPL-3.0` `Shell`
-- [Maddy Mail Server](https://github.com/foxcpp/maddy) - All-in-one mail server that implements SMTP (both MTA and MX) and IMAP. Replaces Postfix, Dovecot, OpenDKIM, OpenSPF, OpenDMARC with single daemon. `GPL-3.0` `Go`
-- [Mail-in-a-Box](https://mailinabox.email/) - Turns any Ubuntu server into a fully functional mail server with one command. ([源码](https://github.com/mail-in-a-box/mailinabox)) `CC0-1.0` `Shell`
-- [Mailcow](https://mailcow.email/) - Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration. ([源码](https://github.com/mailcow/mailcow-dockerized)) `GPL-2.0` `Docker/PHP`
-- [Mailu](https://mailu.io/) - Mailu is a simple yet full-featured mail server as a set of Docker images. ([源码](https://github.com/Mailu/Mailu)) `MIT` `Docker/Python`
-- [Modoboa](https://modoboa.org/en/) - Modoboa is a mail hosting and management platform including a modern and simplified Web User Interface. ([源码](https://github.com/modoboa/modoboa)) `ISC` `Python`
-- [Ptorx](https://github.com/xyfir/ptorx) - Email privacy. Anonymously send and receive with alias forwarding. `GPL-3.0` `Nodejs`
-- [Simple NixOS Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - Complete mailserver solution leveraging the Nix Ecosystem. `GPL-3.0` `Nix`
-- [SimpleLogin](https://simplelogin.io) - Open source email alias solution to protect your email address. Comes with browser extensions and mobile apps. ([源码](https://github.com/simple-login/app)) `MIT` `Docker/Python`
-- [wildduck](https://wildduck.email/) - Scalable no-SPOF IMAP/POP3 mail server. ([源码](https://github.com/nodemailer/wildduck)) `EUPL-1.2` `Nodejs`
+- [AnonAddy](https://anonaddy.com) - 开源的电子邮件转发服务，用于创建别名。 ([源码](https://github.com/anonaddy/anonaddy)) `MIT` `PHP`
+- [DebOps](https://docs.debops.org/) - 你的基于Debian的数据中心在一个盒子里。一组通用的 Ansible 角色，可以用来管理 Debian 或 Ubuntu 主机。 ([源码](https://github.com/debops/debops)) `GPL-3.0-only` `YAML/Ansible/Python`
+- [docker-mailserver](https://docker-mailserver.github.io/docker-mailserver/edge/) - 生产就绪的全栈但简单的邮件服务器（SMTP、IMAP、LDAP、反垃圾邮件、防病毒等）在一个容器内运行。只有配置文件，没有SQL数据库。 ([源码](https://github.com/docker-mailserver/docker-mailserver)) `MIT` `Docker`
+- [emailwiz](https://github.com/LukeSmithxyz/emailwiz) - Luke Smith的bash脚本可以完全自动化地在debian上设置Postfix/Dovecot/SpamAssassin/OpenDKIM服务器。 `GPL-3.0` `Bash`
+- [Excision Mail](https://github.com/Excision-Mail/Excision-Mail) - 基于OpenSMTPD的全栈式安全邮件服务器，适用于OpenBSD，使用ansible。 `ISC` `Shell/Ansible`
+- [homebox](https://github.com/progmaticltd/homebox) - 一套Ansible脚本，用于在Debian上部署一个功能齐全的邮件服务器。尽可能的不引人注目和自动，注重稳定性和安全性。 `GPL-3.0` `Shell`
+- [Inboxen](https://inboxen.org) - Inboxen是一项为你提供无限数量的独特收件箱的服务。 ([源码](https://github.com/Inboxen/Inboxen)) `GPL-3.0` `Python`
+- [iRedMail](https://www.iredmail.org/) - 基于Postfix和Dovecot的全功能邮件服务器解决方案。 ([源码](https://github.com/iredmail/iRedMail)) `GPL-3.0` `Shell`
+- [Maddy Mail Server](https://github.com/foxcpp/maddy) - 一体化的邮件服务器，实现SMTP（MTA和MX）和IMAP。用单个守护程序取代Postfix、Dovecot、OpenDKIM、OpenSPF、OpenDMARC。 `GPL-3.0` `Go`
+- [Mail-in-a-Box](https://mailinabox.email/) - 通过一个命令将任何Ubuntu服务器变成一个功能齐全的邮件服务器。 ([源码](https://github.com/mail-in-a-box/mailinabox)) `CC0-1.0` `Shell`
+- [Mailcow](https://mailcow.email/) - 基于Dovecot、Postfix和其他开源软件的邮件服务器套件，提供了一个现代化的Web UI进行管理。 ([源码](https://github.com/mailcow/mailcow-dockerized)) `GPL-2.0` `Docker/PHP`
+- [Mailu](https://mailu.io/) - Mailu是一个简单但功能齐全的邮件服务器，是一套Docker镜像。 ([源码](https://github.com/Mailu/Mailu)) `MIT` `Docker/Python`
+- [Modoboa](https://modoboa.org/en/) - Modoboa是一个邮件托管和管理平台，包括一个现代和简化的网络用户界面。 ([源码](https://github.com/modoboa/modoboa)) `ISC` `Python`
+- [Ptorx](https://github.com/xyfir/ptorx) - 电子邮件隐私。用别名转发匿名发送和接收。 `GPL-3.0` `Nodejs`
+- [Simple NixOS Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - 利用Nix生态系统的完整邮件服务器解决方案。 `GPL-3.0` `Nix`
+- [SimpleLogin](https://simplelogin.io) - 开源的电子邮件别名解决方案，保护你的电子邮件地址。配有浏览器扩展和移动应用程序。 ([源码](https://github.com/simple-login/app)) `MIT` `Docker/Python`
+- [wildduck](https://wildduck.email/) - 可扩展的无SPOF IMAP/POP3邮件服务器。 ([源码](https://github.com/nodemailer/wildduck)) `EUPL-1.2` `Nodejs`
 
 
-### Communication - Email - Mail Delivery Agents
+### 通讯 - Email - 邮件发送代理
 
 **[`^        返回顶部        ^`](#)**
 
-MDAs - IMAP/POP3 software
+MDAs - IMAP/POP3 软件
 
-- [Cyrus IMAP](https://www.cyrusimap.org/) - Email (IMAP/POP3), contacts and calendar server. ([源码](https://github.com/cyrusimap/cyrus-imapd )) `BSD-3-Clause-Attribution` `C`
-- [Dovecot](https://www.dovecot.org/) - IMAP and POP3 server written primarily with security in mind. ([源码](https://github.com/dovecot/core)) `MIT/LGPL-2.1` `C`
-- [MailForm](https://github.com/Feuerhamster/mailform) - Lightweight self-hosted open source alternative to Formspree and SendGrid. `Apache-2.0` `Nodejs`
-- [Piler](https://www.mailpiler.org/wiki/start) - feature-rich open source email archiving solution. ([源码](https://bitbucket.org/jsuto/piler)) `GPL-3.0` `C`
+- [Cyrus IMAP](https://www.cyrusimap.org/) - 电子邮件（IMAP/POP3）、联系人和日历服务器。 ([源码](https://github.com/cyrusimap/cyrus-imapd )) `BSD-3-Clause-Attribution` `C`
+- [Dovecot](https://www.dovecot.org/) - IMAP 和 POP3 服务器的编写主要考虑到了安全问题。 ([源码](https://github.com/dovecot/core)) `MIT/LGPL-2.1` `C`
+- [MailForm](https://github.com/Feuerhamster/mailform) - Formspree和SendGrid的轻量级自我托管的开源替代品。 `Apache-2.0` `Nodejs`
+- [Piler](https://www.mailpiler.org/wiki/start) - 功能丰富的开源电子邮件归档解决方案。 ([源码](https://bitbucket.org/jsuto/piler)) `GPL-3.0` `C`
 
 
-### Communication - Email - Mail Transfer Agents
+### 通讯 - Email - 邮件传输代理
 
 **[`^        返回顶部        ^`](#)**
 
 MTAs / SMTP servers
 
-- [chasquid](https://blitiri.com.ar/p/chasquid/) - SMTP (email) server with a focus on simplicity, security, and ease of operation. ([源码](https://blitiri.com.ar/git/r/chasquid/)) `Apache-2.0` `Go`
-- [Courier MTA](https://www.courier-mta.org/) - Fast, scalable, enterprise mail/groupware server providing ESMTP, IMAP, POP3, webmail, mailing list, basic web-based calendaring and scheduling services. ([源码](https://www.courier-mta.org/repo.html)) `GPL-3.0` `C`
-- [Exim](https://www.exim.org/) - Message transfer agent (MTA) developed at the University of Cambridge. ([源码](https://git.exim.org/exim.git)) `GPL-3.0` `C`
-- [Haraka](https://haraka.github.io/) - High-performance, pluginable SMTP server written in Javascript. ([源码](https://github.com/haraka/Haraka)) `MIT` `Javascript`
-- [MailCatcher](https://mailcatcher.me/) - Ruby gem that deploys a simply SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development. ([源码](https://github.com/sj26/mailcatcher)) `MIT` `Ruby`
-- [Maildrop](https://gitlab.com/markbeeson/maildrop) - Disposable email SMTP server, also useful for development. `MIT` `Scala`
-- [MailHog](https://github.com/mailhog/MailHog) - Small Golang executable which runs an SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development. `MIT` `Go`
-- [OpenSMTPD](https://opensmtpd.org/) - Secure SMTP server implementation from the OpenBSD project. ([源码](https://cvsweb.openbsd.org/cgi-bin/cvsweb/src/usr.sbin/smtpd/)) `ISC` `C`
-- [Postfix](http://www.postfix.org/) - Fast, easy to administer, and secure Sendmail replacement. `IPL-1.0` `C`
-- [Qmail](https://cr.yp.to/qmail.html) - Secure Sendmail replacement. ([源码](https://sources.debian.net/src/netqmail/1.06-5/)) `CC0-1.0` `C`
-- [Sendmail](https://www.proofpoint.com/us/products/email-protection/open-source-email-solution) - Message transfer agent (MTA). `Sendmail` `C`
-- [Slimta](https://www.slimta.org) - Mail Transfer Library built on Python. ([源码](https://github.com/slimta/python-slimta)) `MIT` `Python`
+- [chasquid](https://blitiri.com.ar/p/chasquid/) - SMTP（电子邮件）服务器，注重简单性、安全性和易操作性。 ([源码](https://blitiri.com.ar/git/r/chasquid/)) `Apache-2.0` `Go`
+- [Courier MTA](https://www.courier-mta.org/) - 快速、可扩展的企业邮件/群件服务器，提供ESMTP、IMAP、POP3、网络邮件、邮件列表、基于网络的基本日历和日程安排服务。 ([源码](https://www.courier-mta.org/repo.html)) `GPL-3.0` `C`
+- [Exim](https://www.exim.org/) - 剑桥大学开发的消息传输代理（MTA）。 ([源码](https://git.exim.org/exim.git)) `GPL-3.0` `C`
+- [Haraka](https://haraka.github.io/) - 用 Javascript 编写的高性能、可插件的SMTP服务器。 ([源码](https://github.com/haraka/Haraka)) `MIT` `Javascript`
+- [MailCatcher](https://mailcatcher.me/) - Ruby gem部署了一个简单的SMTP MTA网关，接受所有邮件并显示在Web界面。对调试或开发很有用。 ([源码](https://github.com/sj26/mailcatcher)) `MIT` `Ruby`
+- [Maildrop](https://gitlab.com/markbeeson/maildrop) - 一次性的电子邮件SMTP服务器，对开发也很有用。 `MIT` `Scala`
+- [MailHog](https://github.com/mailhog/MailHog) - 小型Golang可执行文件，运行一个SMTP MTA网关，接受所有邮件并显示在Web界面。对调试或开发有用。 `MIT` `Go`
+- [OpenSMTPD](https://opensmtpd.org/) - 来自OpenBSD项目的安全SMTP服务器实现。 ([源码](https://cvsweb.openbsd.org/cgi-bin/cvsweb/src/usr.sbin/smtpd/)) `ISC` `C`
+- [Postfix](http://www.postfix.org/) - 快速、易于管理和安全的Sendmail替代品。 `IPL-1.0` `C`
+- [Qmail](https://cr.yp.to/qmail.html) - 安全的Sendmail替代品。 ([源码](https://sources.debian.net/src/netqmail/1.06-5/)) `CC0-1.0` `C`
+- [Sendmail](https://www.proofpoint.com/us/products/email-protection/open-source-email-solution) - 信息传输代理（MTA）。 `Sendmail` `C`
+- [Slimta](https://www.slimta.org) - 建立在Python上的邮件传输库。 ([源码](https://github.com/slimta/python-slimta)) `MIT` `Python`
 
 
-### Communication - Email - Mailing Lists and Newsletters
-
-**[`^        返回顶部        ^`](#)**
-
-Mailing lists servers and mass mailing software - one message to many recipients.
-
-- [Dada Mail](https://dadamailproject.com/) - Web-based list management system that can be used for announcement lists and/or discussion lists. ([源码](https://github.com/justingit/dada-mail)) `GPL-2.0` `Perl`
-- [HyperKitty](https://wiki.list.org/HyperKitty) - Open source Django application to provide a web interface to access GNU Mailman v3 archives. ([Demo](https://lists.mailman3.org/), [源码](https://gitlab.com/mailman/hyperkitty)) `GPL-3.0` `Python`
-- [Listmonk](https://listmonk.app/) - High performance, self-hosted newsletter and mailing list manager with a modern dashboard. ([源码](https://github.com/knadh/listmonk)) `AGPL-3.0` `Go`
-- [Mailman](https://www.gnu.org/software/mailman/) - The Gnu mailing list server. `GPL-3.0` `Python`
-- [Mailtrain](https://mailtrain.org/) - Self hosted newsletter application. ([源码](https://github.com/Mailtrain-org/mailtrain)) `GPL-3.0` `Nodejs`
-- [MailyHerald](https://mailyherald.org/) - Self-hosted Mailchimp alternative that you can easily integrate with your site. Helps you send and manage your application mailings. It supports email marketing and conducting the daily stream of notifications you send to your users. ([源码](https://github.com/Sology/maily_herald)) `LGPL-3.0` `Ruby`
-- [Mautic](https://www.mautic.org/) - Mautic is marketing automation software (email, social and more). ([源码](https://github.com/mautic/mautic)) `GPL-3.0` `PHP`
-- [phpList](https://phplist.org) - Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. ([源码](https://github.com/phpList/)) `AGPL-3.0` `PHP`
-- [Postal](https://postal.atech.media/) - Fully featured open source mail delivery platform for incoming and outgoing e-mail. ([源码](https://github.com/postalhq/postal)) `MIT` `Ruby`
-- [Postorius](https://docs.mailman3.org/projects/postorius/en/latest/) - Web user interface to access GNU Mailman. ([源码](https://gitlab.com/mailman/postorius/)) `GPL-3.0` `Python`
-- [Schleuder](https://schleuder.nadir.org/) - GPG-enabled mailing list manager with resending-capabilities. ([源码](https://0xacab.org/schleuder/schleuder/tree/master)) `GPL-3.0` `Ruby`
-- [Sympa](https://www.sympa.org/) - Mailing list manager. `GPL-2.0` `Perl`
-
-
-### Communication - Email - Webmail Clients
+### 通讯 - Email - 邮件列表和新闻简报
 
 **[`^        返回顶部        ^`](#)**
 
-- [Afterlogic WebMail Lite](https://afterlogic.org/webmail-lite) - Fast and easy-to-use webmail front-end for your existing IMAP mail server, Plesk or cPanel. ([Demo](https://lite.afterlogic.com/), [源码](https://github.com/afterlogic/webmail-lite)) `AGPL-3.0` `PHP`
-- [Cypht](https://cypht.org) - Feed reader for your email accounts. ([源码](https://github.com/jasonmunro/cypht)) `LGPL-2.1` `PHP`
-- [IMP](https://www.horde.org/apps/imp/) - HORDE application that provides webmail access to IMAP and POP3 accounts. ([Demo](http://demo.horde.org/), [源码](https://www.horde.org/download/imp)) `GPL-2.0` `PHP`
-- [Isotope Mail](https://blog.marcnuri.com/isotope-mail-client-introduction/) - Microservice based webmail client built with ReactJS and Spring. ([源码](https://github.com/manusa/isotope-mail)) `Apache-2.0` `Docker/Java`
-- [MailCare](https://mailcare.io) - Open source disposable email address service. ([源码](https://github.com/mailcare/mailcare)) `MIT` `PHP`
-- [Mailpile](https://www.mailpile.is/) - Webmail client with search, filtering, encryption features and more. ([源码](https://github.com/mailpile/Mailpile)) `AGPL-3.0` `Python`
-- [RainLoop](https://www.rainloop.net/) - Simple, modern and fast webmail with IMAP/SMTP Support and multi accounting. ([Demo](https://mail.rainloop.net), [源码](https://github.com/RainLoop/rainloop-webmail)). `AGPL-3.0` `PHP`
-- [Roundcube](https://roundcube.net) - Browser-based IMAP client with an application-like user interface. ([源码](https://github.com/roundcube/roundcubemail)) `GPL-3.0` `PHP`
-- [SquirrelMail](https://squirrelmail.org) - Another browser-based IMAP client. ([源码](https://sourceforge.net/p/squirrelmail/code/HEAD/tree/)) `GPL-2.0` `PHP`
+邮件列表服务器和群发软件 - 一条信息给许多收件人。
+
+- [Dada Mail](https://dadamailproject.com/) - 基于 Web 的列表管理系统，可用于公告列表和/或讨论列表。 ([源码](https://github.com/justingit/dada-mail)) `GPL-2.0` `Perl`
+- [HyperKitty](https://wiki.list.org/HyperKitty) - 开源的Django应用程序，提供一个访问GNU Mailman v3档案的网络接口。 ([Demo](https://lists.mailman3.org/), [源码](https://gitlab.com/mailman/hyperkitty)) `GPL-3.0` `Python`
+- [Listmonk](https://listmonk.app/) - 高性能、自我托管的通讯和邮件列表管理器，具有现代仪表板。 ([源码](https://github.com/knadh/listmonk)) `AGPL-3.0` `Go`
+- [Mailman](https://www.gnu.org/software/mailman/) - Gnu邮件列表服务器。`GPL-3.0` `Python`
+- [Mailtrain](https://mailtrain.org/) - 自我托管的通讯应用。 ([源码](https://github.com/Mailtrain-org/mailtrain)) `GPL-3.0` `Nodejs`
+- [MailyHerald](https://mailyherald.org/) - 自我托管的Mailchimp替代品，你可以轻松地与你的网站整合。帮助你发送和管理你的应用程序邮件。它支持电子邮件营销和进行你发送给用户的日常通知流。 ([源码](https://github.com/Sology/maily_herald)) `LGPL-3.0` `Ruby`
+- [Mautic](https://www.mautic.org/) - Mautic是营销自动化软件（电子邮件、社交和其他）。 ([源码](https://github.com/mautic/mautic)) `GPL-3.0` `PHP`
+- [phpList](https://phplist.org) - 通讯和电子邮件营销，对订阅者、退件和插件进行高级管理。 ([源码](https://github.com/phpList/)) `AGPL-3.0` `PHP`
+- [Postal](https://postal.atech.media/) - 功能齐全的开源邮件发送平台，用于接收和发送电子邮件。 ([源码](https://github.com/postalhq/postal)) `MIT` `Ruby`
+- [Postorius](https://docs.mailman3.org/projects/postorius/en/latest/) - 访问GNU Mailman的网络用户接口。 ([源码](https://gitlab.com/mailman/postorius/)) `GPL-3.0` `Python`
+- [Schleuder](https://schleuder.nadir.org/) - 支持GPG的邮件列表管理器，具有重发功能。 ([源码](https://0xacab.org/schleuder/schleuder/tree/master)) `GPL-3.0` `Ruby`
+- [Sympa](https://www.sympa.org/) - 邮件列表管理员。 `GPL-2.0` `Perl`
 
 
-### Communication - IRC
+### 通讯 - Email - Web邮件客户端
 
 **[`^        返回顶部        ^`](#)**
 
-[IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) communication software
-
-- [Convos](https://convos.chat/) - Always online web IRC client. ([Demo](https://convos.chat/#instant-demo), [源码](https://github.com/nordaaker/convos)) `Artistic-2.0` `Perl`
-- [Dispatch](https://github.com/khlieng/dispatch) - Self-hosted web IRC client written in Go. ([Demo](https://dispatch.khlieng.com/connect)) `MIT` `Go`
-- [Ergo](https://ergo.chat/) - Modern IRCv3 server written in Go, combining the features of an ircd, a services framework, and a bouncer. ([源码](https://github.com/ergochat/ergo)) `MIT` `Go`
-- [Glowing Bear](https://github.com/glowing-bear/glowing-bear/) - A web frontend for WeeChat. ([Demo](https://www.glowing-bear.org)) `GPL-3.0` `Javascript`
-- [InspIRCd](https://www.inspircd.org/) - Modular IRC server written in C++ for Linux, BSD, Windows, and macOS. ([源码](https://github.com/inspircd/inspircd)) `GFDL-1.2-only` `C++`
-- [Kiwi IRC](https://kiwiirc.com/) - Responsive web IRC client with theming support. ([Demo](https://kiwiirc.com/nextclient/), [源码](https://github.com/kiwiirc/kiwiirc)) `Apache-2.0` `Nodejs`
-- [ngircd](https://ngircd.barton.de/) - Free, portable and lightweight Internet Relay Chat server for small or private networks. ([源码](https://github.com/ngircd/ngircd)) `GPL-2.0` `C`
-- [Quassel IRC](https://quassel-irc.org/) - distributed IRC client, meaning that one (or multiple) client(s) can attach to and detach from a central core. ([源码](https://github.com/quassel/quassel)) `GPL-2.0` `C++`
-- [Robust IRC](https://robustirc.net/) - RobustIRC is IRC without netsplits. Distributed IRC server, based on RobustSession protocol. ([源码](https://github.com/robustirc/robustirc)) `BSD-3-Clause` `Go`
-- [The Lounge](https://thelounge.chat/) - Self-hosted web IRC client. ([Demo](https://demo.thelounge.chat/), [源码](https://github.com/thelounge/thelounge)) `MIT` `Nodejs`
-- [Tiny Tiny IRC](https://tt-rss.org/tt-irc/) - An open source AJAX-powered chat platform with support for IRC ([源码](https://git.tt-rss.org/fox/tt-irc)). `GPL-3.0` `PHP/Java`
-- [UnrealIRCd](https://www.unrealircd.org/) - Modular, advanced and highly configurable IRC server written in C for Linux, BSD, Windows, and macOS. ([源码](https://github.com/unrealircd/unrealircd)) `GPL-2.0` `C`
-- [Weechat](https://weechat.org/) - Fast, light and extensible chat client. `GPL-3.0` `C`
-- [ZNC](https://wiki.znc.in/ZNC) - Advanced IRC bouncer. ([源码](https://github.com/znc/znc)) `Apache-2.0` `C++`
+- [Afterlogic WebMail Lite](https://afterlogic.org/webmail-lite) - 为您现有的IMAP邮件服务器、Plesk或cPanel提供快速和易于使用的网络邮件前端。 ([Demo](https://lite.afterlogic.com/), [源码](https://github.com/afterlogic/webmail-lite)) `AGPL-3.0` `PHP`
+- [Cypht](https://cypht.org) - 为你的电子邮件账户提供饲料阅读器。 ([源码](https://github.com/jasonmunro/cypht)) `LGPL-2.1` `PHP`
+- [IMP](https://www.horde.org/apps/imp/) - HORDE 应用程序，提供对IMAP和POP3账户的网络邮件访问。 ([Demo](http://demo.horde.org/), [源码](https://www.horde.org/download/imp)) `GPL-2.0` `PHP`
+- [Isotope Mail](https://blog.marcnuri.com/isotope-mail-client-introduction/) - 用ReactJS和Spring构建的基于微服务的网络邮件客户端。 ([源码](https://github.com/manusa/isotope-mail)) `Apache-2.0` `Docker/Java`
+- [MailCare](https://mailcare.io) - 开源的一次性电子邮件地址服务。 ([源码](https://github.com/mailcare/mailcare)) `MIT` `PHP`
+- [Mailpile](https://www.mailpile.is/) - 具有搜索、过滤、加密功能等功能的网络邮件客户端。 ([源码](https://github.com/mailpile/Mailpile)) `AGPL-3.0` `Python`
+- [RainLoop](https://www.rainloop.net/) - 简单、现代、快速的网络邮件，支持IMAP/SMTP和多账户。 ([Demo](https://mail.rainloop.net), [源码](https://github.com/RainLoop/rainloop-webmail)). `AGPL-3.0` `PHP`
+- [Roundcube](https://roundcube.net) - 基于浏览器的IMAP客户端，有一个类似于应用程序的用户界面。 ([源码](https://github.com/roundcube/roundcubemail)) `GPL-3.0` `PHP`
+- [SquirrelMail](https://squirrelmail.org) - 另一个基于浏览器的IMAP客户端。 ([源码](https://sourceforge.net/p/squirrelmail/code/HEAD/tree/)) `GPL-2.0` `PHP`
 
 
-### Communication - SIP
+### 通讯 - IRC
+
+**[`^        返回顶部        ^`](#)**
+
+[IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) 通讯软件
+
+- [Convos](https://convos.chat/) - 始终在线的网络IRC客户端。 ([Demo](https://convos.chat/#instant-demo), [源码](https://github.com/nordaaker/convos)) `Artistic-2.0` `Perl`
+- [Dispatch](https://github.com/khlieng/dispatch) - 用Go语言编写的自我托管的网络IRC客户端。 ([Demo](https://dispatch.khlieng.com/connect)) `MIT` `Go`
+- [Ergo](https://ergo.chat/) - 用Go编写的现代IRCv3服务器，结合了ircd、服务框架和bouncer的功能。 ([源码](https://github.com/ergochat/ergo)) `MIT` `Go`
+- [Glowing Bear](https://github.com/glowing-bear/glowing-bear/) - WeeChat的一个网络前端。 ([Demo](https://www.glowing-bear.org)) `GPL-3.0` `Javascript`
+- [InspIRCd](https://www.inspircd.org/) - 用C++编写的模块化IRC服务器，适用于Linux、BSD、Windows和MacOS。 ([源码](https://github.com/inspircd/inspircd)) `GFDL-1.2-only` `C++`
+- [Kiwi IRC](https://kiwiirc.com/) - 反应灵敏的网络IRC客户端，支持主题化。 ([Demo](https://kiwiirc.com/nextclient/), [源码](https://github.com/kiwiirc/kiwiirc)) `Apache-2.0` `Nodejs`
+- [ngircd](https://ngircd.barton.de/) - 适用于小型或私人网络的免费、便携和轻量级的互联网中继聊天服务器。 ([源码](https://github.com/ngircd/ngircd)) `GPL-2.0` `C`
+- [Quassel IRC](https://quassel-irc.org/) - 分布式IRC客户端，意味着一个（或多个）客户端可以附着在中央核心上，也可以从中央核心上分离出来。 ([源码](https://github.com/quassel/quassel)) `GPL-2.0` `C++`
+- [Robust IRC](https://robustirc.net/) - RobustIRC是没有分网的IRC。分布式 IRC 服务器，基于 RobustSession 协议。 ([源码](https://github.com/robustirc/robustirc)) `BSD-3-Clause` `Go`
+- [The Lounge](https://thelounge.chat/) - 自我托管的网络IRC客户端。 ([Demo](https://demo.thelounge.chat/), [源码](https://github.com/thelounge/thelounge)) `MIT` `Nodejs`
+- [Tiny Tiny IRC](https://tt-rss.org/tt-irc/) - 一个开源的AJAX驱动的聊天平台，支持IRC ([源码](https://git.tt-rss.org/fox/tt-irc)). `GPL-3.0` `PHP/Java`
+- [UnrealIRCd](https://www.unrealircd.org/) - 用C语言编写的模块化、高级和高度可配置的IRC服务器，适用于Linux、BSD、Windows和macOS。 ([源码](https://github.com/unrealircd/unrealircd)) `GPL-2.0` `C`
+- [Weechat](https://weechat.org/) - 快速、轻便、可扩展的聊天客户端。 `GPL-3.0` `C`
+- [ZNC](https://wiki.znc.in/ZNC) - 高级IRC保镖。 ([源码](https://github.com/znc/znc)) `Apache-2.0` `C++`
+
+
+### 通讯 - SIP
 
 **[`^        返回顶部        ^`](#)**
 
 [SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol)/[IPBX](https://en.wikipedia.org/wiki/IP_PBX) telephony software
 
-- [Asterisk](https://www.asterisk.org/) - Easy to use but advanced IP PBX system, VoIP gateway and conference server. `GPL-2.0` `C`
-- [ASTPP](https://www.astppbilling.org/) - is an Open Source VoIP Billing Solution for Freeswitch. It supports prepaid and postpaid billing with call rating and credit control. It also provides many other features. ([源码](https://github.com/iNextrix/ASTPP)) `AGPL-3.0` `PHP`
-- [Freepbx](https://www.freepbx.org) - Web-based open source GUI that controls and manages Asterisk. ([源码](https://git.freepbx.org/projects/FREEPBX)) `GPL-2.0` `PHP`
-- [FreeSWITCH](https://freeswitch.org/) - Scalable open source cross-platform telephony platform. ([源码](https://freeswitch.org/stash/projects/FS/repos/freeswitch/browse)) `MPL-2.0` `C`
-- [FusionPBX](https://www.fusionpbx.com/) - Open source project that provides a customizable and flexible web interface to the very powerful and highly scalable multi-platform voice switch called FreeSWITCH. ([源码](https://github.com/fusionpbx/fusionpbx)) `MPL-1.1` `PHP`
-- [Kamailio](https://www.kamailio.org/w/) - Modular SIP server (registrar/proxy/router/etc). ([源码](https://github.com/kamailio/kamailio)) `GPL-2.0` `C`
-- [Kazoo](https://2600hz.org/) - KAZOO is an open-source, highly scalable software platform designed to provide carrier-grade VoIP switch functions and features. ([源码](https://github.com/2600hz/KAZOO)) `MPL-1.1` `Erlang`
-- [Ostel](https://dev.guardianproject.info/projects/ostel/wiki/Server_Documentation) - Secure SIP telephony setup with ZRTP encryption. `GPL-3.0` `Ruby`
-- [Routr](https://routr.io) - A lightweight sip proxy, location server, and registrar for a reliable and scalable SIP infrastructure. ([源码](https://github.com/fonoster/routr)) `MIT` `Javascript`
-- [SIP3](https://sip3.io/) - VoIP troubleshooting and monitoring platform. ([Demo](https://demo.sip3.io), [源码](https://github.com/sip3io/)) `Apache-2.0` `Kotlin`
-- [SIPCAPTURE Homer](https://www.sipcapture.org/) - Troubleshooting and monitoring VoIP calls. ([源码](https://github.com/sipcapture/homer)) `AGPL-3.0` `Angular/C`
-- [SipXcom](https://sipxcom.org/) - Open source unified communications system. ([源码](https://github.com/sipXcom/sipxecs)) `AGPL-3.0` `Java`
-- [Wazo](https://wazo-platform.org/) - Full-featured IPBX solution built atop Asterisk with integrated Web administration interface and REST-ful API. ([源码](https://github.com/wazo-platform)) `GPL-3.0` `Python`
-- [Yeti-Switch](https://yeti-switch.org/) - Transit class4 softswitch(SBC) with integrated billing and routing engine and REST API. ([Demo](https://yeti-switch.org/demo.html), [源码](https://github.com/yeti-switch)) `GPL-2.0` `C++/Ruby`
+- [Asterisk](https://www.asterisk.org/) - 易于使用但先进的IP PBX系统、VoIP网关和会议服务器。 `GPL-2.0` `C`
+- [ASTPP](https://www.astppbilling.org/) - 是Freeswitch的一个开源VoIP计费解决方案。它支持预付费和后付费计费，具有呼叫评级和信用控制。它还提供许多其他功能。 ([源码](https://github.com/iNextrix/ASTPP)) `AGPL-3.0` `PHP`
+- [Freepbx](https://www.freepbx.org) - 基于网络的开源GUI，控制和管理Asterisk。 ([源码](https://git.freepbx.org/projects/FREEPBX)) `GPL-2.0` `PHP`
+- [FreeSWITCH](https://freeswitch.org/) - 可扩展的开源跨平台电话平台。 ([源码](https://freeswitch.org/stash/projects/FS/repos/freeswitch/browse)) `MPL-2.0` `C`
+- [FusionPBX](https://www.fusionpbx.com/) - 开源项目，为称为FreeSWITCH的非常强大和高度可扩展的多平台语音交换机提供可定制和灵活的网络界面。 ([源码](https://github.com/fusionpbx/fusionpbx)) `MPL-1.1` `PHP`
+- [Kamailio](https://www.kamailio.org/w/) - 模块化的SIP服务器（注册商/代理/路由器/等）。 ([源码](https://github.com/kamailio/kamailio)) `GPL-2.0` `C`
+- [Kazoo](https://2600hz.org/) - KAZOO 是一个开源的、高度可扩展的软件平台，旨在提供电信级VoIP交换机的功能和特性。 ([源码](https://github.com/2600hz/KAZOO)) `MPL-1.1` `Erlang`
+- [Ostel](https://dev.guardianproject.info/projects/ostel/wiki/Server_Documentation) - 使用ZRTP加密的安全SIP电话设置。 `GPL-3.0` `Ruby`
+- [Routr](https://routr.io) - 一个轻量级的SIP代理、定位服务器和注册商，用于可靠和可扩展的SIP基础设施。 ([源码](https://github.com/fonoster/routr)) `MIT` `Javascript`
+- [SIP3](https://sip3.io/) - VoIP故障排除和监控平台。 ([Demo](https://demo.sip3.io), [源码](https://github.com/sip3io/)) `Apache-2.0` `Kotlin`
+- [SIPCAPTURE Homer](https://www.sipcapture.org/) - 排除故障和监测VoIP电话。 ([源码](https://github.com/sipcapture/homer)) `AGPL-3.0` `Angular/C`
+- [SipXcom](https://sipxcom.org/) - 开源的统一通信系统。 ([源码](https://github.com/sipXcom/sipxecs)) `AGPL-3.0` `Java`
+- [Wazo](https://wazo-platform.org/) - 全功能的IPBX解决方案，建立在Asterisk之上，具有集成的Web管理界面和REST-ful API。 ([源码](https://github.com/wazo-platform)) `GPL-3.0` `Python`
+- [Yeti-Switch](https://yeti-switch.org/) - 带有集成计费和路由引擎以及REST API的4级软交换（SBC）。 ([Demo](https://yeti-switch.org/demo.html), [源码](https://github.com/yeti-switch)) `GPL-2.0` `C++/Ruby`
 
 
-### Communication - Social Networks and Forums
+### 通讯 - 社交网络和论坛
 
 **[`^        返回顶部        ^`](#)**
 
-- [Abilian SBE](https://github.com/abilian/abilian-sbe) - Open Source Collaboration and Social Networking framework and platform. `LGPL-2.1` `Python`
-- [Anahita](https://www.getanahita.com/) - Open Source Social Networking Framework and Platform. ([源码](https://github.com/anahitasocial)) `GPL-3.0` `PHP`
-- [AsmBB](https://board.asm32.info) - A fast, SQLite-powered forum engine written in ASM. ([源码](https://asm32.info/fossil/asmbb/index)) `EUPL-1.2` `Assembly`
-- [bbPress](https://bbpress.org/) - bbPress is forum software with a twist from the creators of WordPress. Easily setup discussion forums inside your WordPress.org powered site. ([源码](https://bbpress.trac.wordpress.org/browser/trunk)) `GPL-2.0` `PHP`
-- [Bibliogram](https://bibliogram.art) `⚠` - An alternative front-end for Instagram. ([源码](https://sr.ht/~cadence/bibliogram/)) `AGPL-3.0` `Nodejs`
-- [Bootcamp](https://trybootcamp.vitorfs.com) - Enterprise social network. ([源码](https://github.com/vitorfs/bootcamp)) `MIT` `Python`
-- [Buddycloud](http://buddycloud.com/) - Tools, libraries, services and a community to build user-to-user, group and social messaging into your app. Saves time. Scales up. Supports you. ([源码](https://github.com/buddycloud)) `Apache-2.0` `Java`
-- [BuddyPress](https://buddypress.org/about/) - Powerful plugin that takes your WordPress.org powered site beyond the blog with social-network features like user profiles, activity streams, user groups, and more. ([源码](https://github.com/buddypress/BuddyPress)) `GPL-2.0` `PHP`
-- [Cactus Comments](https://cactus.chat/) - Cactus Comments is a federated comment system for the open web built on Matrix. ([Demo](https://cactus.chat/demo/), [源码](https://gitlab.com/cactus-comments/)) `GPL-3.0` `Python`
-- [cartulary](https://github.com/daveajones/cartulary) - RSS reader, readability tool, article archiver, microblogger, social graph manager and reading list manager. `CDDL-1.0` `PHP`
-- [Commento](https://gitlab.com/commento/commento) - Commento is a discussion platform that you can embed on your blog, news articles, and any place where you want your readers to add comments. `MIT` `Go`
-- [schnack](https://github.com/schn4ck/schnack) - Schnack is simple self-hosted node app for Disqus-like drop-in commenting on static websites. `Lil licence v1` `Node.js`
-- [Coral](https://coralproject.net/) - A better commenting experience from Vox Media. ([源码](https://github.com/coralproject/talk)) `Apache-2.0` `Nodejs`
-- [diaspora*](https://diasporafoundation.org/) - Distributed social networking server. ([Demo](https://podupti.me/go.php), [源码](https://github.com/diaspora/diaspora)) `AGPL-3.0` `Ruby`
-- [Discourse](https://www.discourse.org/) - Advanced forum / community solution based on Ruby and JS. ([Demo](https://try.discourse.org/), [源码](https://github.com/discourse/discourse)) `GPL-2.0` `Ruby`
-- [dyu comments](https://github.com/dyu/comments) - Real-time, markdown-enabled comment engine powered by leveldb. ([Demo](https://dyu.github.io/comments/real-time/)) `Apache-2.0` `Java`
-- [Elgg](https://elgg.org/) - Powerful open source social networking engine. ([源码](https://github.com/Elgg/Elgg)) `GPL-2.0` `PHP`
-- [EpochTalk](https://github.com/epochtalk/epochtalk) - Next Generation Forum Software. `MIT` `Nodejs`
-- [Flarum](https://flarum.org) - Delightfully simple forums. Flarum is the next-generation forum software that makes online discussion fun again. ([源码](https://github.com/flarum/flarum)) `MIT` `PHP`
-- [FlaskBB](https://flaskbb.org/) - FlaskBB is forum software written in Python using the microframework Flask. You can easily create new topics, posts and send other users private messages. It also includes basic administration and moderation tools. ([源码](https://github.com/flaskbb/flaskbb)) `BSD-3-Clause` `Python`
-- [FluxBB](https://fluxbb.org/) - Fast, light, user-friendly forum software for your website. ([源码](https://github.com/fluxbb/fluxbb)) `GPL-2.0` `PHP`
-- [Friendica](https://friendi.ca/) - Social Communication Server. ([源码](https://github.com/friendica/friendica)) `AGPL-3.0` `PHP`
-- [Glosa](https://github.com/glosa/glosa-server) - Open source commentary system easy to integrate with static pages. You can import from Disqus. `GPL-3.0` `Java`
-- [GNU social](https://gnu.io/social/) - Social communication software for both public and private communications. ([源码](https://notabug.org/diogo/gnu-social)) `AGPL-3.0` `PHP`
-- [Gosora](https://gosora-project.com/) - Gosora is an ultra-fast and secure forum software written in Go that balances usability with functionality. ([源码](https://github.com/Azareal/Gosora)) `GPL-3.0` `Go`
-- [Hubzilla](https://hubzilla.org) - Decentralized identity, privacy, publishing, sharing, cloud storage, and communications/social platform. ([源码](https://framagit.org/hubzilla/core)) `MIT` `PHP`
-- [HumHub](https://www.humhub.org/) - Flexible kit for private social networks. ([源码](https://github.com/humhub/humhub)) `AGPL-3.0` `PHP`
-- [Isso](https://posativ.org/isso/) - Lightweight commenting server written in Python and Javascript. It aims to be a drop-in replacement for Disqus. ([源码](https://github.com/posativ/isso)) `MIT` `Python`
-- [Lemmy](https://join-lemmy.org/) - A link aggregator / reddit clone for the fediverse. Reddit alternative built in Rust. ([源码](https://github.com/LemmyNet/lemmy)) `AGPL-3.0` `Rust`
-- [Libreddit](https://libredd.it/) `⚠` - Private front-end for Reddit written in Rust. ([源码](https://github.com/spikecodes/libreddit)) `AGPL-3.0` `Rust`
-- [Loomio](https://www.loomio.org/) - Loomio is a collaborative decision-making tool that makes it easy for anyone to participate in decisions which affect them. ([源码](https://github.com/loomio/loomio)) `AGPL-3.0` `Ruby`
-- [Mastodon](https://joinmastodon.org/) - Federated microblogging server, an alternative to GNU social. ([源码](https://github.com/tootsuite/mastodon)) `AGPL-3.0` `Ruby`
-- [Misago](https://misago-project.org/) - Misago is fully featured modern forum application that is fast, scalable and responsive. ([源码](https://github.com/rafalp/Misago)) `GPL-2.0` `Python`
-- [Misskey](https://misskey.io/) - Decentralized app-like microblogging server/SNS for the Fediverse, using the ActivityPub protocol like GNU social and Mastodon. ([源码](https://github.com/misskey-dev/misskey)) `AGPL-3.0` `Nodejs`
-- [Movim](https://movim.eu/) - Modern, federated social network based on XMPP, with a fully featured group-chat, subscriptions and microblogging. ([源码](https://github.com/movim/movim)) `AGPL-3.0` `PHP`
-- [MyBB](https://mybb.com/) - Free, extensible forum software package. ([源码](https://github.com/mybb/mybb)) `LGPL-3.0` `PHP`
-- [Nitter](https://nitter.net) `⚠` - A alternative front end to twitter. ([源码](https://github.com/zedeus/nitter)) `AGPL-3.0` `Nimble`
-- [NodeBB](https://nodebb.org/) - Forum software built for the modern web. ([源码](https://github.com/NodeBB/NodeBB)) `GPL-3.0` `Nodejs`
-- [Orange Forum](https://www.goodoldweb.com/) - Orange Forum is an easy to deploy forum that has minimal dependencies and uses very little javascript. ([源码](https://github.com/s-gv/orangeforum)) `BSD-3-Clause` `Go`
-- [OSSN](https://www.opensource-socialnetwork.org/) - Open Source Social Network (OSSN) is a social networking software written in PHP. It allows you to make a social networking website and helps your members build social relationships, with people who share similar professional or personal interests. ([源码](https://github.com/opensource-socialnetwork/opensource-socialnetwork)) `GPL-2.0` `PHP`
-- [phpBB](https://www.phpbb.com/) - Flat-forum bulletin board software solution that can be used to stay in touch with a group of people or can power your entire website. ([源码](https://github.com/phpbb/phpbb)) `GPL-2.0` `PHP`
-- [PixelFed](https://pixelfed.social) - Pixelfed is an open-source, federated platform alternate to Instagram. ([源码](https://github.com/pixelfed/pixelfed)) `AGPL-3.0` `PHP`
-- [Pleroma](https://pleroma.social) - Federated microblogging server, Mastodon, GNU social, & ActivityPub compatible. ([源码](https://git.pleroma.social/pleroma/pleroma)) `AGPL-3.0` `Elixir`
-- [Pump.io](http://pump.io/) - Stream server that does most of what people really want from a social network. ([源码](https://github.com/pump-io/pump.io)) `Apache-2.0` `Nodejs`
-- [remark42](https://remark42.com/) - A lightweight and simple comment engine, which doesn't spy on users. It can be embedded into blogs, articles or any other place where readers add comments. ([Demo](https://remark42.com/demo/), [源码](https://github.com/umputun/remark42)) `MIT` `Go`
-- [rss2twtxt](https://github.com/jointwt/rss2twtxt) - An RSS/Atom feed aggregator command-line tool and web service that consumes RSS/Atom and produces twtxt.net feeds for consumption by twtxt clients. ([Demo](https://feeds.twtxt.net)) `MIT` `Go`
-- [Satellity](https://satellity.org/) - Yet another open source forum written in Golang, React and PostgreSQL. ([源码](https://github.com/satellity/satellity)) `MIT` `Go`
-- [Scoold](https://scoold.com) - Stack Overflow in a JAR. An enterprise-ready Q&A platform with full-text search, SAML, LDAP integration and social login support. ([Demo](https://live.scoold.com), [源码](https://github.com/Erudika/scoold)) `Apache-2.0` `Java`
-- [Simple Machines Forum](https://www.simplemachines.org/) - Free, professional grade software package that allows you to set up your own online community within minutes. ([源码](https://github.com/SimpleMachines/SMF2.1)) `BSD-3-Clause` `PHP`
-- [Socialhome](https://socialhome.network) - Federated and decentralized profile builder and social network engine. ([Demo](https://socialhome.network/), [源码](https://github.com/jaywink/socialhome)) `AGPL-3.0` `Python`
-- [Talkyard](https://www.talkyard.io/) - Create a community, where your users can suggest ideas and get questions answered. And have friendly open-ended discussions and chat (Slack/StackOverflow/Discourse/Reddit/Disqus hybrid). ([Demo](https://www.talkyard.io/forum/latest), [源码](https://github.com/debiki/talkyard)) `AGPL-3.0` `Scala`
-- [Teddit](https://teddit.net) `⚠` - Alternative Reddit front-end focused on privacy. ([源码](https://codeberg.org/teddit/teddit)) `AGPL-3.0` `Nodejs`
-- [Thredded](https://github.com/thredded/thredded) - Forums, feature-rich and simple. `MIT` `Ruby`
-- [Tokumei](https://tokumei.co/) - Anonymous microblogging platform. ([源码](https://gitlab.com/tokumei/tokumei)) `ISC` `rc`
-- [twister](http://twister.net.co/) - Fully decentralized P2P microblogging platform leveraging the free software implementations of Bitcoin and BitTorrent protocols. ([源码](https://github.com/miguelfreitas/twister-core)) `MIT` `C++`
-- [twtxt.net](https://twtxt.net) - a Self-Hosted, Twitter™-like Decentralised micro-logging platform. No ads, no tracking, your content, your data. ([源码](https://git.mills.io/yarnsocial/yarn)) `MIT` `Go`
-- [Vanilla Forums](https://vanillaforums.org/) - Simple and flexible forum software. ([源码](https://github.com/vanilla/vanilla)) `GPL-2.0` `PHP`
-- [Zusam](https://zusam.org) - Free and open-source way to self-host private forums for groups of friends or family. ([Demo](https://demo.zusam.org), [源码](https://github.com/zusam/zusam)) `AGPL-3.0` `PHP`
+- [Abilian SBE](https://github.com/abilian/abilian-sbe) - 开源协作和社会网络框架和平台。 `LGPL-2.1` `Python`
+- [Anahita](https://www.getanahita.com/) - 开源的社会网络框架和平台。 ([源码](https://github.com/anahitasocial)) `GPL-3.0` `PHP`
+- [AsmBB](https://board.asm32.info) - 一个用 ASM 编写的快速的、由 SQLite 驱动的论坛引擎。 ([源码](https://asm32.info/fossil/asmbb/index)) `EUPL-1.2` `Assembly`
+- [bbPress](https://bbpress.org/) - bbPress 是由 WordPress 的创建者开发的具有特色的论坛软件。在你的 WordPress.org 驱动的网站内轻松地设置讨论区。 ([源码](https://bbpress.trac.wordpress.org/browser/trunk)) `GPL-2.0` `PHP`
+- [Bibliogram](https://bibliogram.art) `⚠` - Instagram的一个替代性前端。 ([源码](https://sr.ht/~cadence/bibliogram/)) `AGPL-3.0` `Nodejs`
+- [Bootcamp](https://trybootcamp.vitorfs.com) - 企业社交网络。 ([源码](https://github.com/vitorfs/bootcamp)) `MIT` `Python`
+- [Buddycloud](http://buddycloud.com/) - 工具、库、服务和社区，在你的应用中建立用户对用户、群组和社交信息。节省时间。扩大规模。支持你。 ([源码](https://github.com/buddycloud)) `Apache-2.0` `Java`
+- [BuddyPress](https://buddypress.org/about/) - 强大的插件，使你的WordPress.org驱动的网站超越了博客，具有社交网络功能，如用户档案、活动流、用户组等。 ([源码](https://github.com/buddypress/BuddyPress)) `GPL-2.0` `PHP`
+- [Cactus Comments](https://cactus.chat/) - Cactus Comments是一个建立在Matrix上的开放网络的联合评论系统。 ([Demo](https://cactus.chat/demo/), [源码](https://gitlab.com/cactus-comments/)) `GPL-3.0` `Python`
+- [cartulary](https://github.com/daveajones/cartulary) - RSS阅读器、可读性工具、文章存档器、微博、社交图谱管理器和阅读列表管理器。 `CDDL-1.0` `PHP`
+- [Commento](https://gitlab.com/commento/commento) - Commento是一个讨论平台，你可以将其嵌入你的博客、新闻文章和任何你希望读者添加评论的地方。 `MIT` `Go`
+- [schnack](https://github.com/schn4ck/schnack) - Schnack是一个简单的自我托管的Node应用程序，用于在静态网站上进行类似Discuz的评论。 `Lil licence v1` `Node.js`
+- [Coral](https://coralproject.net/) - Vox Media提供了更好的评论体验。 ([源码](https://github.com/coralproject/talk)) `Apache-2.0` `Nodejs`
+- [diaspora*](https://diasporafoundation.org/) - 分布式社交网络服务器。 ([Demo](https://podupti.me/go.php), [源码](https://github.com/diaspora/diaspora)) `AGPL-3.0` `Ruby`
+- [Discourse](https://www.discourse.org/) - 基于Ruby和JS的高级论坛/社区解决方案。 ([Demo](https://try.discourse.org/), [源码](https://github.com/discourse/discourse)) `GPL-2.0` `Ruby`
+- [dyu comments](https://github.com/dyu/comments) - 由leveldb提供的实时的、支持markdown的评论引擎。 ([Demo](https://dyu.github.io/comments/real-time/)) `Apache-2.0` `Java`
+- [Elgg](https://elgg.org/) - 强大的开源社交网络引擎。 ([源码](https://github.com/Elgg/Elgg)) `GPL-2.0` `PHP`
+- [EpochTalk](https://github.com/epochtalk/epochtalk) - 下一代论坛软件。 `MIT` `Nodejs`
+- [Flarum](https://flarum.org) - 令人愉悦的简单论坛。Flarum是新一代的论坛软件，使在线讨论再次变得有趣。 ([源码](https://github.com/flarum/flarum)) `MIT` `PHP`
+- [FlaskBB](https://flaskbb.org/) - FlaskBB是用Python编写的论坛软件，使用微框架Flask。你可以轻松地创建新的主题、帖子和向其他用户发送私人信息。它还包括基本的管理和修改工具。 ([源码](https://github.com/flaskbb/flaskbb)) `BSD-3-Clause` `Python`
+- [FluxBB](https://fluxbb.org/) - 为您的网站提供快速、轻便、用户友好的论坛软件。 ([源码](https://github.com/fluxbb/fluxbb)) `GPL-2.0` `PHP`
+- [Friendica](https://friendi.ca/) - 社会通讯服务器。 ([源码](https://github.com/friendica/friendica)) `AGPL-3.0` `PHP`
+- [Glosa](https://github.com/glosa/glosa-server) - 开源的评论系统，易于与静态页面整合。可以从Disqus导入。 `GPL-3.0` `Java`
+- [GNU social](https://gnu.io/social/) - 用于公共和私人通信的社会通信软件。 ([源码](https://notabug.org/diogo/gnu-social)) `AGPL-3.0` `PHP`
+- [Gosora](https://gosora-project.com/) - Gosora是一个用Go语言编写的超快速和安全的论坛软件，它兼顾了可用性和功能性。 ([源码](https://github.com/Azareal/Gosora)) `GPL-3.0` `Go`
+- [Hubzilla](https://hubzilla.org) - 去中心化的身份、隐私、发布、共享、云存储和通信/社交平台。 ([源码](https://framagit.org/hubzilla/core)) `MIT` `PHP`
+- [HumHub](https://www.humhub.org/) - 用于私人社交网络的灵活套件。 ([源码](https://github.com/humhub/humhub)) `AGPL-3.0` `PHP`
+- [Isso](https://posativ.org/isso/) - 用Python和Javascript编写的轻量级评论服务器。它的目标是成为Disqus的直接替代品。 ([源码](https://github.com/posativ/isso)) `MIT` `Python`
+- [Lemmy](https://join-lemmy.org/) - 一个用于aggregator的链接聚合器/Reddit克隆。在Rust中建立的Reddit替代品。 ([源码](https://github.com/LemmyNet/lemmy)) `AGPL-3.0` `Rust`
+- [Libreddit](https://libredd.it/) `⚠` - 用Rust编写的Reddit的私人前端。 ([源码](https://github.com/spikecodes/libreddit)) `AGPL-3.0` `Rust`
+- [Loomio](https://www.loomio.org/) - Loomio 是一个协作式决策工具，使任何人都能轻松参与影响他们的决策。 ([源码](https://github.com/loomio/loomio)) `AGPL-3.0` `Ruby`
+- [Mastodon](https://joinmastodon.org/) - 联盟式微博服务器，是GNU social的替代方案。 ([源码](https://github.com/tootsuite/mastodon)) `AGPL-3.0` `Ruby`
+- [Misago](https://misago-project.org/) - Misago 是功能齐全的现代论坛应用程序，具有快速、可扩展和响应性。 ([源码](https://github.com/rafalp/Misago)) `GPL-2.0` `Python`
+- [Misskey](https://misskey.io/) - 为 Fediverse 提供的类似于应用程序的分散式微博服务器/SNS，使用GNU social和Mastodon等ActivityPub协议。 ([源码](https://github.com/misskey-dev/misskey)) `AGPL-3.0` `Nodejs`
+- [Movim](https://movim.eu/) - 现代的、基于XMPP的联合社交网络，具有功能齐全的群聊、订阅和微博。 ([源码](https://github.com/movim/movim)) `AGPL-3.0` `PHP`
+- [MyBB](https://mybb.com/) - 免费的、可扩展的论坛软件包。 ([源码](https://github.com/mybb/mybb)) `LGPL-3.0` `PHP`
+- [Nitter](https://nitter.net) `⚠` - 一个替代twitter的前端。 ([源码](https://github.com/zedeus/nitter)) `AGPL-3.0` `Nimble`
+- [NodeBB](https://nodebb.org/) - 为现代网络建立的论坛软件。 ([源码](https://github.com/NodeBB/NodeBB)) `GPL-3.0` `Nodejs`
+- [Orange Forum](https://www.goodoldweb.com/) - 橙色论坛是一个易于部署的论坛，它具有最小的依赖性，并使用很少的JavaScript。 ([源码](https://github.com/s-gv/orangeforum)) `BSD-3-Clause` `Go`
+- [OSSN](https://www.opensource-socialnetwork.org/) - 开源社交网络（OSSN）是一个用PHP编写的社会网络软件。它允许你做一个社交网站，并帮助你的成员建立社会关系，与那些有类似职业或个人兴趣的人。 ([源码](https://github.com/opensource-socialnetwork/opensource-socialnetwork)) `GPL-2.0` `PHP`
+- [phpBB](https://www.phpbb.com/) - 扁平论坛的公告板软件解决方案，可以用来与一群人保持联系，也可以为你的整个网站提供动力。 ([源码](https://github.com/phpbb/phpbb)) `GPL-2.0` `PHP`
+- [PixelFed](https://pixelfed.social) - Pixelfed是一个开源的、替代Instagram的联合平台。 ([源码](https://github.com/pixelfed/pixelfed)) `AGPL-3.0` `PHP`
+- [Pleroma](https://pleroma.social) - 联合微博服务器，兼容Mastodon、GNU social和ActivityPub。 ([源码](https://git.pleroma.social/pleroma/pleroma)) `AGPL-3.0` `Elixir`
+- [Pump.io](http://pump.io/) - 流媒体服务器，做了人们真正想从社交网络中得到的大部分东西。 ([源码](https://github.com/pump-io/pump.io)) `Apache-2.0` `Nodejs`
+- [remark42](https://remark42.com/) - 流媒体服务器，做了人们真正想从社交网络中得到的大部分东西。 ([Demo](https://remark42.com/demo/), [源码](https://github.com/umputun/remark42)) `MIT` `Go`
+- [rss2twtxt](https://github.com/jointwt/rss2twtxt) - 一个RSS/Atom feed聚合器的命令行工具和网络服务，消耗RSS/Atom并产生twtxt.net feeds供twtxt客户端使用。 ([Demo](https://feeds.twtxt.net)) `MIT` `Go`
+- [Satellity](https://satellity.org/) - 然而，另一个用Golang、React和PostgreSQL编写的开源论坛。 ([源码](https://github.com/satellity/satellity)) `MIT` `Go`
+- [Scoold](https://scoold.com) - JAR中的Stack Overflow。一个企业就绪的问答平台，具有全文搜索、SAML、LDAP集成和社交登录支持。 ([Demo](https://live.scoold.com), [源码](https://github.com/Erudika/scoold)) `Apache-2.0` `Java`
+- [Simple Machines Forum](https://www.simplemachines.org/) - 免费的专业级软件包，允许你在几分钟内建立你自己的在线社区。 ([源码](https://github.com/SimpleMachines/SMF2.1)) `BSD-3-Clause` `PHP`
+- [Socialhome](https://socialhome.network) - 联合和分散的个人资料建立者和社交网络引擎。 ([Demo](https://socialhome.network/), [源码](https://github.com/jaywink/socialhome)) `AGPL-3.0` `Python`
+- [Talkyard](https://www.talkyard.io/) - 创建一个社区，你的用户可以在这里提出想法并得到问题的解答。并进行友好的开放式讨论和聊天（Slack/StackOverflow/Discourse/Reddit/Disqus混合）。 ([Demo](https://www.talkyard.io/forum/latest), [源码](https://github.com/debiki/talkyard)) `AGPL-3.0` `Scala`
+- [Teddit](https://teddit.net) `⚠` - 注重隐私的替代性Reddit前端。 ([源码](https://codeberg.org/teddit/teddit)) `AGPL-3.0` `Nodejs`
+- [Thredded](https://github.com/thredded/thredded) - 论坛，功能丰富且简单。 `MIT` `Ruby`
+- [Tokumei](https://tokumei.co/) - 匿名的微博客平台。 ([源码](https://gitlab.com/tokumei/tokumei)) `ISC` `rc`
+- [twister](http://twister.net.co/) - 完全去中心化的P2P微博平台，利用比特币和BitTorrent协议的自由软件实现。 ([源码](https://github.com/miguelfreitas/twister-core)) `MIT` `C++`
+- [twtxt.net](https://twtxt.net) - 一个自我托管的、类似于Twitter™的分散式微日志平台。没有广告，没有跟踪，你的内容，你的数据。 ([源码](https://git.mills.io/yarnsocial/yarn)) `MIT` `Go`
+- [Vanilla Forums](https://vanillaforums.org/) - 简单而灵活的论坛软件。 ([源码](https://github.com/vanilla/vanilla)) `GPL-2.0` `PHP`
+- [Zusam](https://zusam.org) - 免费和开源的方式，为朋友或家人的团体自我主持私人论坛。 ([Demo](https://demo.zusam.org), [源码](https://github.com/zusam/zusam)) `AGPL-3.0` `PHP`
 
 
 ### Communication - XMPP
 
 **[`^        返回顶部        ^`](#)**
 
-[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP) software
+[可扩展消息和存在协议](https://en.wikipedia.org/wiki/XMPP) software
 
 
 ### Communication - XMPP - Servers
